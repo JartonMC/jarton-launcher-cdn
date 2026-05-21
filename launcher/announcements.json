@@ -1,0 +1,37 @@
+{
+  "_comment": "Populated manually until the JartonMC announcements Discord-bot endpoint is wired. Each entry mirrors a Discord announcements channel message: id, posted timestamp, title, body (Markdown), optional image URL.",
+  "entries": [
+    {
+      "id": "v1-launcher-2026-05-21",
+      "posted": "2026-05-21T22:00:00Z",
+      "title": "Jarton Client v1 is here",
+      "body": "The official launcher for JartonMC is live. One-click play to mc.jarton.me with Sodium, Lithium, FerriteCore, Iris, and Discord Rich Presence already bundled.\n\nDownload at [jarton.me/download](https://jarton.me/download).",
+      "image_url": null,
+      "url": "https://jarton.me/download"
+    },
+    {
+      "id": "awakening-ch1-2026-05-15",
+      "posted": "2026-05-15T18:00:00Z",
+      "title": "Chapter 1: The Awakening is live",
+      "body": "The questline we've been teasing is live. Months of rebuilding from the ground up.\n\n**How to begin:** log in and see Jason.\n\n**What's new:**\n- Fully redesigned quest flow with no awkward gaps\n- Rewritten dialogue and story direction across every quest\n- Rewards that actually feel worth your time\n- A cleaner path into skills, dungeons, and the rest of the world\n\nArrive in Paradise Cove to find familiar faces, though something feels off. Help the townsfolk. Stand the walls with Silas. Uncover what's spreading beneath the surface.",
+      "image_url": null,
+      "url": "https://discord.gg/JartonMC"
+    },
+    {
+      "id": "jartonmines-2026-05-16",
+      "posted": "2026-05-16T12:00:00Z",
+      "title": "JartonMines is mining-ready",
+      "body": "Custom mining plugin for Nectarfall Island wraps up in dev: mining, boosters, persistence, relog all verified clean. Main-server deploy pending one last texture.",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "jartonsynccontrol-2026-05-16",
+      "posted": "2026-05-16T15:00:00Z",
+      "title": "JartonSyncControl v1.3.0",
+      "body": "Server sync workflow gets `/sync status` and `/sync cancel`. Production-validated on the live network.",
+      "image_url": null,
+      "url": null
+    }
+  ]
+}

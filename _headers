@@ -1,0 +1,8 @@
+/launcher/manifest.json
+  Cache-Control: public, max-age=300
+
+/launcher/wallpapers/*
+  Cache-Control: public, max-age=86400
+
+/launcher/featured/*
+  Cache-Control: public, max-age=86400

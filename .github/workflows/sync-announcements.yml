@@ -1,0 +1,101 @@
+name: Sync Discord announcements
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: sync-announcements
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch announcements + write JSON
+        env:
+          JARTON_DISCORD_TOKEN: ${{ secrets.JARTON_DISCORD_TOKEN }}
+          CHANNEL_ID: "1392986806546333787"
+        run: |
+          set -e
+          if [ -z "$JARTON_DISCORD_TOKEN" ]; then
+            echo "JARTON_DISCORD_TOKEN secret not set"; exit 0
+          fi
+          python3 - <<'PY'
+          import json, os, sys, urllib.request, urllib.error
+          token = os.environ["JARTON_DISCORD_TOKEN"]
+          channel = os.environ["CHANNEL_ID"]
+          url = f"https://discord.com/api/v10/channels/{channel}/messages?limit=50"
+          req = urllib.request.Request(url, headers={
+              "Authorization": f"Bot {token}",
+              "User-Agent": "JartonClient/sync-action",
+          })
+          try:
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  data = json.loads(r.read())
+          except urllib.error.HTTPError as e:
+              sys.stderr.write(f"Discord API {e.code}: {e.read().decode('utf-8', 'replace')}\n")
+              sys.exit(1)
+
+          def first_image(msg):
+              for a in msg.get("attachments", []) or []:
+                  if (a.get("content_type") or "").startswith("image/"):
+                      return a.get("url") or ""
+              for emb in msg.get("embeds", []) or []:
+                  img = (emb.get("image") or {}).get("url")
+                  if img: return img
+                  thumb = (emb.get("thumbnail") or {}).get("url")
+                  if thumb: return thumb
+              return ""
+
+          entries = []
+          for m in data:
+              body = m.get("content") or ""
+              for emb in m.get("embeds", []) or []:
+                  if emb.get("title"):
+                      body += f"\n\n**{emb['title']}**"
+                  if emb.get("description"):
+                      body += f"\n\n{emb['description']}"
+              title = ""
+              embeds = m.get("embeds") or []
+              if embeds and embeds[0].get("title"):
+                  title = embeds[0]["title"]
+              if not title:
+                  first_line = body.strip().split("\n", 1)[0] if body else ""
+                  title = (first_line[:120] + "…") if len(first_line) > 120 else first_line
+              if not title:
+                  title = "Announcement"
+              entries.append({
+                  "id": m["id"],
+                  "posted": m["timestamp"],
+                  "title": title,
+                  "body": body,
+                  "image_url": first_image(m),
+                  "url": f"https://discord.com/channels/@me/{channel}/{m['id']}",
+              })
+
+          payload = {
+              "_comment": "Auto-synced by sync-announcements.yml on a 5-min cron.",
+              "entries": entries,
+          }
+          with open("launcher/announcements.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+          print(f"wrote {len(entries)} announcements", flush=True)
+          PY
+
+      - name: Commit + push (if changed)
+        run: |
+          if git diff --quiet launcher/announcements.json; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "jarton-bot"
+          git config user.email "actions@jarton.me"
+          git add launcher/announcements.json
+          git commit -m "sync: announcements from Discord"
+          git push

@@ -4,7 +4,7 @@
 
 ## :sunrise: "THE AWAKENING" — Chapter 1 Revamp
 
-[🖼️ Chapter 1 Banner--LIVE](https://github.com/user-attachments/assets/89284678-ec31-4854-9994-e1f00525c233)
+<img alt="Chapter 1 Banner--LIVE" src="https://github.com/user-attachments/assets/89284678-ec31-4854-9994-e1f00525c233" />
 
 If you have not already, make sure to read the full announcement regarding the Chapter 1 release. A lot of general information and story details are covered there that will not be fully repeated in this changelog.
 
@@ -253,10 +253,10 @@ Video Example: https://medal.tv/games/minecraft/clips/mbb6FdREnDMYg6vq_?invite=c
 
 ✔️ Optimized the spawn world for chunk generation and fixed the ocean floor.
 
-[🖼️ 2026-03-12_16 28 09](https://github.com/user-attachments/assets/868e299d-2f75-401e-b38e-42e59f5cfb74)
-[🖼️ 2026-03-12_16 28 19](https://github.com/user-attachments/assets/fd831a2d-0093-4779-9d64-be3dfb9f9497)
-[🖼️ 2026-03-12_16 28 33](https://github.com/user-attachments/assets/81660239-83ce-4cd0-a510-a3cca6566cf1)
-[🖼️ 2026-03-12_16 33 17](https://github.com/user-attachments/assets/c03381c5-c43c-417c-a992-060fbc70854f)
+<img alt="2026-03-12_16 28 09" src="https://github.com/user-attachments/assets/868e299d-2f75-401e-b38e-42e59f5cfb74" />
+<img alt="2026-03-12_16 28 19" src="https://github.com/user-attachments/assets/fd831a2d-0093-4779-9d64-be3dfb9f9497" />
+<img alt="2026-03-12_16 28 33" src="https://github.com/user-attachments/assets/81660239-83ce-4cd0-a510-a3cca6566cf1" />
+<img alt="2026-03-12_16 33 17" src="https://github.com/user-attachments/assets/c03381c5-c43c-417c-a992-060fbc70854f" />
 
 
 ### JartonGuard (Punishments)

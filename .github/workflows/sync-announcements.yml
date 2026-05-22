@@ -17,70 +17,149 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install emoji library
+        run: pip install --quiet "emoji>=2.12"
+
       - name: Fetch announcements + write JSON
         env:
           JARTON_DISCORD_TOKEN: ${{ secrets.JARTON_DISCORD_TOKEN }}
           CHANNEL_ID: "1392986806546333787"
+          GUILD_ID: "1391645092137406494"
         run: |
           set -e
           if [ -z "$JARTON_DISCORD_TOKEN" ]; then
             echo "JARTON_DISCORD_TOKEN secret not set"; exit 0
           fi
           python3 - <<'PY'
-          import json, os, sys, urllib.request, urllib.error
-          token = os.environ["JARTON_DISCORD_TOKEN"]
-          channel = os.environ["CHANNEL_ID"]
-          url = f"https://discord.com/api/v10/channels/{channel}/messages?limit=50"
-          req = urllib.request.Request(url, headers={
-              "Authorization": f"Bot {token}",
-              "User-Agent": "JartonClient/sync-action",
-          })
-          try:
-              with urllib.request.urlopen(req, timeout=20) as r:
-                  data = json.loads(r.read())
-          except urllib.error.HTTPError as e:
-              sys.stderr.write(f"Discord API {e.code}: {e.read().decode('utf-8', 'replace')}\n")
-              sys.exit(1)
+          import json, os, re, sys, urllib.request, urllib.error
+          import emoji as emoji_lib
 
-          def first_image(msg):
-              for a in msg.get("attachments", []) or []:
+          TOKEN = os.environ["JARTON_DISCORD_TOKEN"]
+          CHANNEL = os.environ["CHANNEL_ID"]
+          GUILD = os.environ["GUILD_ID"]
+          HEADERS = {
+              "Authorization": f"Bot {TOKEN}",
+              "User-Agent": "JartonClient/sync-action",
+          }
+
+          def discord_get(url: str):
+              req = urllib.request.Request(url, headers=HEADERS)
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      return json.loads(r.read())
+              except urllib.error.HTTPError as e:
+                  sys.stderr.write(f"{url} -> {e.code}: {e.read().decode('utf-8', 'replace')}\n")
+                  return None
+
+          # User cache so mentions render as readable names instead of IDs.
+          user_cache = {}
+          def resolve_user(uid: str) -> str:
+              if uid in user_cache:
+                  return user_cache[uid]
+              data = discord_get(f"https://discord.com/api/v10/users/{uid}")
+              name = (data or {}).get("global_name") or (data or {}).get("username") or uid
+              user_cache[uid] = name
+              return name
+
+          # Channel + role caches.
+          channel_cache, role_cache = {}, {}
+          def resolve_channel(cid: str) -> str:
+              if cid in channel_cache:
+                  return channel_cache[cid]
+              data = discord_get(f"https://discord.com/api/v10/channels/{cid}")
+              name = (data or {}).get("name") or cid
+              channel_cache[cid] = name
+              return name
+
+          def resolve_role(rid: str) -> str:
+              if rid in role_cache:
+                  return role_cache[rid]
+              data = discord_get(f"https://discord.com/api/v10/guilds/{GUILD}/roles")
+              if isinstance(data, list):
+                  for r in data:
+                      role_cache[r["id"]] = r["name"]
+              return role_cache.get(rid, rid)
+
+          MENTION_USER = re.compile(r"<@!?(\d+)>")
+          MENTION_CHANNEL = re.compile(r"<#(\d+)>")
+          MENTION_ROLE = re.compile(r"<@&(\d+)>")
+          CUSTOM_EMOJI = re.compile(r"<a?:([a-zA-Z0-9_]+):\d+>")
+          EVERYONE = re.compile(r"@(everyone|here)")
+          URL = re.compile(r"https?://\S+")
+
+          def humanize(text: str) -> str:
+              if not text:
+                  return ""
+              text = MENTION_USER.sub(lambda m: f"@{resolve_user(m.group(1))}", text)
+              text = MENTION_CHANNEL.sub(lambda m: f"#{resolve_channel(m.group(1))}", text)
+              text = MENTION_ROLE.sub(lambda m: f"@{resolve_role(m.group(1))}", text)
+              text = CUSTOM_EMOJI.sub(lambda m: f":{m.group(1)}:", text)
+              text = EVERYONE.sub(r"@\1", text)
+              # Unicode-ize :shortcode: emojis like :sunrise: -> 🌅
+              text = emoji_lib.emojize(text, language="alias")
+              # Discord's __underline__ should NOT render as markdown bold —
+              # markdown renderers treat it that way. Convert to plain.
+              text = re.sub(r"__([^_]+)__", r"\1", text)
+              return text
+
+          def first_image(msg) -> str:
+              for a in msg.get("attachments") or []:
                   if (a.get("content_type") or "").startswith("image/"):
                       return a.get("url") or ""
-              for emb in msg.get("embeds", []) or []:
+              for emb in msg.get("embeds") or []:
                   img = (emb.get("image") or {}).get("url")
                   if img: return img
                   thumb = (emb.get("thumbnail") or {}).get("url")
                   if thumb: return thumb
               return ""
 
+          def extract_title(body: str, embeds: list) -> str:
+              if embeds:
+                  for emb in embeds:
+                      t = emb.get("title")
+                      if t:
+                          return humanize(t)
+              # First non-empty non-URL-only line.
+              for raw in (body or "").splitlines():
+                  line = raw.strip()
+                  if not line:
+                      continue
+                  # Skip lines that are just URLs / mentions / @everyone.
+                  if URL.fullmatch(line) or line in {"@everyone", "@here"}:
+                      continue
+                  # Strip leading markdown decoration to get cleaner titles.
+                  cleaned = re.sub(r"^[#*_>\s\-\=─-▟]+", "", line).strip()
+                  if not cleaned:
+                      continue
+                  return (cleaned[:120] + "…") if len(cleaned) > 120 else cleaned
+              return "Announcement"
+
+          raw = discord_get(f"https://discord.com/api/v10/channels/{CHANNEL}/messages?limit=50") or []
           entries = []
-          for m in data:
-              body = m.get("content") or ""
-              for emb in m.get("embeds", []) or []:
+          for m in raw:
+              body = humanize(m.get("content") or "")
+              for emb in m.get("embeds") or []:
                   if emb.get("title"):
-                      body += f"\n\n**{emb['title']}**"
+                      body += f"\n\n**{humanize(emb['title'])}**"
                   if emb.get("description"):
-                      body += f"\n\n{emb['description']}"
-              title = ""
-              embeds = m.get("embeds") or []
-              if embeds and embeds[0].get("title"):
-                  title = embeds[0]["title"]
-              if not title:
-                  first_line = body.strip().split("\n", 1)[0] if body else ""
-                  title = (first_line[:120] + "…") if len(first_line) > 120 else first_line
-              if not title:
-                  title = "Announcement"
+                      body += f"\n\n{humanize(emb['description'])}"
+              title = extract_title(body, m.get("embeds") or [])
+              # Skip entries that are JUST a Discord event URL or have no real body.
+              if not body.strip():
+                  continue
+              if URL.fullmatch(body.strip()) and not (m.get("embeds") or m.get("attachments")):
+                  continue
               entries.append({
                   "id": m["id"],
                   "posted": m["timestamp"],
                   "title": title,
                   "body": body,
                   "image_url": first_image(m),
-                  "url": f"https://discord.com/channels/@me/{channel}/{m['id']}",
+                  "url": f"https://discord.com/channels/{GUILD}/{CHANNEL}/{m['id']}",
               })
 
           payload = {
-              "_comment": "Auto-synced by sync-announcements.yml on a 5-min cron.",
+              "_comment": "Auto-synced from the JartonMC announcements channel every 3 hours.",
               "entries": entries,
           }
           with open("launcher/announcements.json", "w", encoding="utf-8") as f:

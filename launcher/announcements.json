@@ -1,117 +1,109 @@
 {
-  "_comment": "Auto-synced by sync-announcements.yml on a 5-min cron.",
+  "_comment": "Auto-synced from the JartonMC announcements channel every 3 hours.",
   "entries": [
-    {
-      "id": "1504907709986771047",
-      "posted": "2026-05-15T18:05:57.894000+00:00",
-      "title": "https://discord.com/events/1391645092137406494/1501982733734510652",
-      "body": "https://discord.com/events/1391645092137406494/1501982733734510652",
-      "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1504907709986771047"
-    },
     {
       "id": "1504907654718423195",
       "posted": "2026-05-15T18:05:44.717000+00:00",
-      "title": "# 📖 \"The Awakening\" CHAPTER 1, NOW LIVE 📖",
-      "body": "# 📖 \"The Awakening\" CHAPTER 1, NOW LIVE 📖\n\n@everyone\n\nThe wait is over. After months of rebuilding from the ground up, **Chapter 1: The Awakening** is officially live on JartonMC. 🍯\n\nThis is the questline we've been teasing, and it's the way the journey was always meant to start.\n\n### 🐝 **How to begin:**\nLog in and see Jason!\n\n### 📜 **What you're in for:**\nA fully redesigned quest flow with no awkward gaps\nRewritten dialogue and story direction across every quest\nRewards that actually feel worth your time\nA cleaner path into skills, dungeons, and the rest of the world\nNew polish on every NPC, objective, and interaction\n\n### 🌿 **The story so far:**\nYou'll arrive in Paradise Cove to find familiar faces, though something feels off. Strange activity. Missing pieces. A growing sense that the Cove isn't as peaceful as it looks.\n\nHelp the townsfolk. Stand the walls with Silas. Uncover what's spreading beneath the surface.\n\nThis is Chapter 1. The first real step into everything that comes next. 🗺️\n\n🐛 Found a bug? Drop it in <#1438928458892968167> so we can squash it fast.\n🎟️ Need a hand? Open a ticket in <#1404569391139393707> \n\nGenuinely, thank you for sticking with us while we cooked this one properly. We can't wait to see you all in the Cove. ❤️\n\n### Join at:\n🐝 **mc.jarton.me**\non Version 1.21.4\n\n<@&1406474177849983026>\n<@&1406474150976946256>",
+      "title": "📖 \"The Awakening\" CHAPTER 1, NOW LIVE 📖",
+      "body": "# 📖 \"The Awakening\" CHAPTER 1, NOW LIVE 📖\n\n@everyone\n\nThe wait is over. After months of rebuilding from the ground up, **Chapter 1: The Awakening** is officially live on JartonMC. 🍯\n\nThis is the questline we've been teasing, and it's the way the journey was always meant to start.\n\n### 🐝 **How to begin:**\nLog in and see Jason!\n\n### 📜 **What you're in for:**\nA fully redesigned quest flow with no awkward gaps\nRewritten dialogue and story direction across every quest\nRewards that actually feel worth your time\nA cleaner path into skills, dungeons, and the rest of the world\nNew polish on every NPC, objective, and interaction\n\n### 🌿 **The story so far:**\nYou'll arrive in Paradise Cove to find familiar faces, though something feels off. Strange activity. Missing pieces. A growing sense that the Cove isn't as peaceful as it looks.\n\nHelp the townsfolk. Stand the walls with Silas. Uncover what's spreading beneath the surface.\n\nThis is Chapter 1. The first real step into everything that comes next. 🗺️\n\n🐛 Found a bug? Drop it in #🐛┃bug-reports so we can squash it fast.\n🎟️ Need a hand? Open a ticket in #🎟️┃open-ticket \n\nGenuinely, thank you for sticking with us while we cooked this one properly. We can't wait to see you all in the Cove. ❤️\n\n### Join at:\n🐝 **mc.jarton.me**\non Version 1.21.4\n\n@📣 Announcements\n@⚙️ Server Updates",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1504907654718423195"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1504907654718423195"
     },
     {
       "id": "1501987464200454314",
       "posted": "2026-05-07T16:41:57.043000+00:00",
-      "title": "## 📖 \"THE AWAKENING\" — __CHAPTER 1 REVAMP__ 📖",
-      "body": "## 📖 \"THE AWAKENING\" — __CHAPTER 1 REVAMP__ 📖\n@everyone \n\nWe’ve been quiet about this one for a bit.\n\nBehind the scenes, we’ve been putting a lot of time into reworking how the server actually *starts*— because first impressions matter more than anything, and we knew Chapter 1 needed to hit that standard.\n\n**So instead of patching it piece by piece, we rebuilt it properly.**\n\n## 📅 Releasing May 15\n\nA lot of systems and characters have been __rewritten entirely__ to make the world feel more connected and alive. NPCs now lead naturally into one another, quests build on previous events, and __Chapter 1 now actually sets the tone for everything that comes after.__\n\nFrom helping townsfolk around the Cove…\nTo defending the walls alongside Silas…\nTo uncovering the deeper problems spreading beneath Paradise Cove…\n\n**This chapter is meant to feel like the true beginning of your story.**\n\nWe know a lot of you have been waiting for quest content and progression updates for a long time, so genuinely — **thank you for sticking with us while we worked on this.**  ❤️\n\nWe’re incredibly excited to finally put this into your hands.\n\n📖 **[Full Event Details & Questline Preview:](https://discord.gg/jartonmc?event=1501982733734510652)** 📖\n\n*See you all on May 15.*",
+      "title": "📖 \"THE AWAKENING\" — CHAPTER 1 REVAMP 📖",
+      "body": "## 📖 \"THE AWAKENING\" — CHAPTER 1 REVAMP 📖\n@everyone \n\nWe’ve been quiet about this one for a bit.\n\nBehind the scenes, we’ve been putting a lot of time into reworking how the server actually *starts*— because first impressions matter more than anything, and we knew Chapter 1 needed to hit that standard.\n\n**So instead of patching it piece by piece, we rebuilt it properly.**\n\n## 📅 Releasing May 15\n\nA lot of systems and characters have been rewritten entirely to make the world feel more connected and alive. NPCs now lead naturally into one another, quests build on previous events, and Chapter 1 now actually sets the tone for everything that comes after.\n\nFrom helping townsfolk around the Cove…\nTo defending the walls alongside Silas…\nTo uncovering the deeper problems spreading beneath Paradise Cove…\n\n**This chapter is meant to feel like the true beginning of your story.**\n\nWe know a lot of you have been waiting for quest content and progression updates for a long time, so genuinely — **thank you for sticking with us while we worked on this.**  ❤️\n\nWe’re incredibly excited to finally put this into your hands.\n\n📖 **[Full Event Details & Questline Preview:](https://discord.gg/jartonmc?event=1501982733734510652)** 📖\n\n*See you all on May 15.*",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1501987464200454314"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1501987464200454314"
     },
     {
       "id": "1476764748795084840",
       "posted": "2026-02-27T02:15:53.075000+00:00",
-      "title": "# Server back up!",
-      "body": "# Server back up!\n<@&1406474177849983026>",
+      "title": "Server back up!",
+      "body": "# Server back up!\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1476764748795084840"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1476764748795084840"
     },
     {
       "id": "1476643522521071648",
       "posted": "2026-02-26T18:14:10.479000+00:00",
-      "title": "# ⚠️ Server Maintainence Mode",
-      "body": "# ⚠️ Server Maintainence Mode\nHello everyone, hope you all are doing well.\n\nThe server currently is under maintenance mode until further notice, I will make another announcement when it is back up and operational but for the time being your patience is much appreciated while we work through this bug.\n\n⌛ We estimate the server will be back up within 5-6 hours. Again we appreciate yall's patience, I will give you all a little treat when the server is back up!\n\n<@&1406474177849983026>",
+      "title": "⚠️ Server Maintainence Mode",
+      "body": "# ⚠️ Server Maintainence Mode\nHello everyone, hope you all are doing well.\n\nThe server currently is under maintenance mode until further notice, I will make another announcement when it is back up and operational but for the time being your patience is much appreciated while we work through this bug.\n\n⌛ We estimate the server will be back up within 5-6 hours. Again we appreciate yall's patience, I will give you all a little treat when the server is back up!\n\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1476643522521071648"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1476643522521071648"
     },
     {
       "id": "1467521480739913790",
       "posted": "2026-02-01T14:06:26.239000+00:00",
-      "title": "# 📢 Quest Update",
-      "body": "# 📢 Quest Update\n🛠️✨ Quests are currently under active development and will be temporarily unavailable until further notice.\n\nBehind the scenes, we’re reworking them to be more immersive, more lore-driven, and better woven into the world — with deeper stories, clearer progression, and a more rewarding experience overall 📜🌿\n\nThis means taking a little extra time now so quests can feel alive when they return.\nWe’ll share updates as things progress and announce when the paths reopen 🗺️\n\nThank you for your patience and support <@&1406474177849983026> — we can’t wait for you to experience what’s coming 💚✨",
+      "title": "📢 Quest Update",
+      "body": "# 📢 Quest Update\n🛠️✨ Quests are currently under active development and will be temporarily unavailable until further notice.\n\nBehind the scenes, we’re reworking them to be more immersive, more lore-driven, and better woven into the world — with deeper stories, clearer progression, and a more rewarding experience overall 📜🌿\n\nThis means taking a little extra time now so quests can feel alive when they return.\nWe’ll share updates as things progress and announce when the paths reopen 🗺️\n\nThank you for your patience and support @📣 Announcements — we can’t wait for you to experience what’s coming 💚✨",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1467521480739913790"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1467521480739913790"
     },
     {
       "id": "1466203072886997185",
       "posted": "2026-01-28T22:47:33.312000+00:00",
-      "title": "### Ever wanted to power up your battle?",
-      "body": "### Ever wanted to power up your battle?\n## Introducing.... TONICS\n\nSpeak to the new <:healthpotion:1462494891312549972> **Alchemist NPC** in spawn, If you help him out, you'll be rewarded with the ability to **brew powerful tonics** that can provide long-lasting stat buffs up to 40minutes long! <a:eyeshaking:585840648272216065> \n\nCant wait to see what you do with them all! <a:2090stevecrouching:1459558472143339656> \n<@&1406474150976946256>",
-      "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1466203072610041928/2026-01-28_22.40.31.png?ex=6a1185c5&is=6a103445&hm=401d7eaafa4844a6c026b7b6cf8e3866ce088cac38fc98d5fa4df2b394aaa624&",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1466203072886997185"
+      "title": "Ever wanted to power up your battle?",
+      "body": "### Ever wanted to power up your battle?\n## Introducing.... TONICS\n\nSpeak to the new :healthpotion: **Alchemist NPC** in spawn, If you help him out, you'll be rewarded with the ability to **brew powerful tonics** that can provide long-lasting stat buffs up to 40minutes long! :eyeshaking: \n\nCant wait to see what you do with them all! :2090stevecrouching: \n@⚙️ Server Updates",
+      "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1466203072610041928/2026-01-28_22.40.31.png?ex=6a122e85&is=6a10dd05&hm=4617afacfef9ecade7d078a763d8ab88c6a7d32d08035b98b9df4bfe5d882497&",
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1466203072886997185"
     },
     {
       "id": "1465529899048501321",
       "posted": "2026-01-27T02:12:36.162000+00:00",
       "title": "MINECRAFT TRAILER{JARTON MC} #minecraft #gaming #viral #viralshort ...",
-      "body": "# JartonMC Trailer\n\nCheck out our newest JartonMC Trailer made by <@113810406291669001> <a:Fire:1156392324453109780> \n[[Server Trailer]](https://www.youtube.com/watch?v=fAsY60ACIYE)\n\n<@&1406474177849983026>\n\n**MINECRAFT TRAILER{JARTON MC} #minecraft #gaming #viral #viralshort ...**\n\nJOIN US ON JARTON MC TODAY TO HELP TAKE ON THE HIVE!\nmc.jarton.me\n1.21.4-1.21.8 \n\nBEDROCK COMING SOON!\n#bedrockedition #java #minecraft #server #trailer #edit #subscribe #fypシ #fypシ゚viral #fyp",
+      "body": "# JartonMC Trailer\n\nCheck out our newest JartonMC Trailer made by @[Bear] :Fire: \n[[Server Trailer]](https://www.youtube.com/watch?v=fAsY60ACIYE)\n\n@📣 Announcements\n\n**MINECRAFT TRAILER{JARTON MC} #minecraft #gaming #viral #viralshort ...**\n\nJOIN US ON JARTON MC TODAY TO HELP TAKE ON THE HIVE!\nmc.jarton.me\n1.21.4-1.21.8 \n\nBEDROCK COMING SOON!\n#bedrockedition #java #minecraft #server #trailer #edit #subscribe #fypシ #fypシ゚viral #fyp",
       "image_url": "https://i.ytimg.com/vi/fAsY60ACIYE/maxresdefault.jpg",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1465529899048501321"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1465529899048501321"
     },
     {
       "id": "1464669095147606151",
       "posted": "2026-01-24T17:12:04.519000+00:00",
-      "title": "# Gear Conversions <a:minecraftbee:1462494587539951814> ",
-      "body": "# Gear Conversions <a:minecraftbee:1462494587539951814> \n\nAll gear items have been converted to a new system. This means that gear is now even better and allows us to implement more gear in future with a fully customisable system!\n\n- Gear is now split up into 5 categories (accessories - can fit anything, rings, bracelets, artifacts and amulets) - by default you have 1 of each slot available in /gear, more accessory slots can be earnt through /rankup!\n- Gear now has better stat buffs which can be viewed directly inside the /gear menu\n- Speaking to Andy in spawn will allow you to craft new gear and salvage old gear into nectar!\n- Gear is now harder to come by in dungeons, and in its place gold is more common\n- Dungeon mobs now have a rare chance to drop 'Dungeon souls' - these new items are used in gear forging with Andy\n\nUnfortunately this does mean that **all old gear items __no longer work__** - Please **create a ticket** in <#1404569391139393707>  and ask a staff member to convert your old gear items to the new versions, __and__ any gear that was lost in the old gear menu.\n\nThank you all for your continued support <@&1406474177849983026> <@&1406474150976946256>",
+      "title": "Gear Conversions :minecraftbee:",
+      "body": "# Gear Conversions :minecraftbee: \n\nAll gear items have been converted to a new system. This means that gear is now even better and allows us to implement more gear in future with a fully customisable system!\n\n- Gear is now split up into 5 categories (accessories - can fit anything, rings, bracelets, artifacts and amulets) - by default you have 1 of each slot available in /gear, more accessory slots can be earnt through /rankup!\n- Gear now has better stat buffs which can be viewed directly inside the /gear menu\n- Speaking to Andy in spawn will allow you to craft new gear and salvage old gear into nectar!\n- Gear is now harder to come by in dungeons, and in its place gold is more common\n- Dungeon mobs now have a rare chance to drop 'Dungeon souls' - these new items are used in gear forging with Andy\n\nUnfortunately this does mean that **all old gear items no longer work** - Please **create a ticket** in #🎟️┃open-ticket  and ask a staff member to convert your old gear items to the new versions, and any gear that was lost in the old gear menu.\n\nThank you all for your continued support @📣 Announcements @⚙️ Server Updates",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1464669095147606151"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1464669095147606151"
     },
     {
       "id": "1464570080665796786",
       "posted": "2026-01-24T10:38:37.627000+00:00",
-      "title": "# <a:2090stevecrouching:1459558472143339656> SERVER IS BACK UP!",
-      "body": "# <a:2090stevecrouching:1459558472143339656> SERVER IS BACK UP!\n\nWe have just made some **massive changes to the server.** Of those changes were the **Skript conversions** we've been trying to do for a few months now. These changes will allow for the server to be better optimized. Please bear with us for the next 48 hours as we navigate through this transitional period.\n\nIf you notice any bugs that are not mentioned below please let us know in <#1438928458892968167> \n\n**What changed?**\n\n> - One major thing we needed to do is **revamp the nectar system.** To do this we needed to wipe Nectar balances. We will be compensating everyone for this. __Please create a ticket in <#1404569391139393707>  to get your balance restored. __\n\n> - **The gear system is not currently in.** We removed the previous gear system due to the current overhaul we have in works for it. This is currently being worked on and will be out __very soon__\n\n> - **Badges are currently not working**, this is currently being worked on, and will be __fixed shortly__\n\nApart from that we may experience some crashes and hiccups in the next 2 days but once we get through this the server will be much much more stable.\n\nThank you for your patience. ❤️  @everyone",
+      "title": ":2090stevecrouching: SERVER IS BACK UP!",
+      "body": "# :2090stevecrouching: SERVER IS BACK UP!\n\nWe have just made some **massive changes to the server.** Of those changes were the **Skript conversions** we've been trying to do for a few months now. These changes will allow for the server to be better optimized. Please bear with us for the next 48 hours as we navigate through this transitional period.\n\nIf you notice any bugs that are not mentioned below please let us know in #🐛┃bug-reports \n\n**What changed?**\n\n> - One major thing we needed to do is **revamp the nectar system.** To do this we needed to wipe Nectar balances. We will be compensating everyone for this. Please create a ticket in #🎟️┃open-ticket  to get your balance restored. \n\n> - **The gear system is not currently in.** We removed the previous gear system due to the current overhaul we have in works for it. This is currently being worked on and will be out very soon\n\n> - **Badges are currently not working**, this is currently being worked on, and will be fixed shortly\n\nApart from that we may experience some crashes and hiccups in the next 2 days but once we get through this the server will be much much more stable.\n\nThank you for your patience. ❤️  @everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1464570080665796786"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1464570080665796786"
     },
     {
       "id": "1464484630550937661",
       "posted": "2026-01-24T04:59:04.732000+00:00",
-      "title": "# ⚙️ Maintenance Notice",
+      "title": "⚙️ Maintenance Notice",
       "body": "# ⚙️ Maintenance Notice\n\nThe server is now entering maintenance mode and will be offline for the next few hours while we perform updates and fixes.\n\nThis is necessary to keep everything running smoothly and to prepare for upcoming changes. We’ll bring the server back online as soon as maintenance is complete.\n\nThanks for your patience. ❤️ \n@here",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1464484630550937661"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1464484630550937661"
     },
     {
       "id": "1463596994156171419",
       "posted": "2026-01-21T18:11:55.724000+00:00",
-      "title": "# 🐾 Pets Have Arrived to JartonMC! 🐾",
+      "title": "🐾 Pets Have Arrived to JartonMC! 🐾",
       "body": "# 🐾 Pets Have Arrived to JartonMC! 🐾\n\nAfter a ton of work, we’re excited to finally introduce **Pets** to the server — a brand-new system built to grow with you over time.\n\nYou can obtain **Pet Eggs** in a few different ways:\n> 🛒 Purchase them from the webstore ([click here](https://store.jarton.me/category/pets))\n> 🎁 Find them in crates \n> ⚔️ Earn them through dungeon loot \n\nOnce you have an egg, head to **Ivy** in the Pets area at spawn to begin incubation. Each rarity has its own hatch time — higher tiers take longer, but reward you with stronger, rarer companions.\n\n**Every pet comes with unique stats:**\n> ❤️ Regeneration  \n> 💥 Damage  \n> 🛡️ Resistance  \n> ✨ Magic Ability  \n\nLevel up your pet by feeding it **Pet Candy**, granting XP as it grows.  \nWant a serious power spike? Feed your pet **Pet Crystals** to gain a massive **+50% Damage** and **+50% Toughness** boost.\n\nPets are meant to be long-term companions, something you build, invest in, and grow alongside you on your journey.\n\nWe can’t wait to see what you hatch. 🐾\n@everyone",
       "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1463596994483196140/image.png?ex=6a11edeb&is=6a109c6b&hm=e947cffee74a802e959aacb76d236e946c12cf25338165691c4adf1dc09710af&",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1463596994156171419"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1463596994156171419"
     },
     {
       "id": "1463315668773634353",
       "posted": "2026-01-20T23:34:02.526000+00:00",
-      "title": "# 🚀 Boost Rewards Are Live! 🚀",
-      "body": "# 🚀 Boost Rewards Are Live! 🚀\n\nServer boosts let us keep things running smoothly, roll out new features faster, and continue expanding the world for everyone. To show our appreciation, every boost comes with real in-game value.\n<#1463213224446132400> \n\n**Each Boost Grants:**\n- ⭐ Booster Role & Tag (Discord + in-game)\n- 💰 20,000 Gold\n- 🍯 250 Nectar\n- 🗝️ 1 Rare Crate Key\n\n**How to Claim:**\nFor now, after boosting, **open a ticket**. A staff member will verify it and deliver your rewards.\n\n*Every boost directly supports the server’s future. We appreciate every one of you who helps keep this place growing. ❤️*\n@everyone",
+      "title": "🚀 Boost Rewards Are Live! 🚀",
+      "body": "# 🚀 Boost Rewards Are Live! 🚀\n\nServer boosts let us keep things running smoothly, roll out new features faster, and continue expanding the world for everyone. To show our appreciation, every boost comes with real in-game value.\n#🚀┃boost-rewards \n\n**Each Boost Grants:**\n- ⭐ Booster Role & Tag (Discord + in-game)\n- 💰 20,000 Gold\n- 🍯 250 Nectar\n- 🗝️ 1 Rare Crate Key\n\n**How to Claim:**\nFor now, after boosting, **open a ticket**. A staff member will verify it and deliver your rewards.\n\n*Every boost directly supports the server’s future. We appreciate every one of you who helps keep this place growing. ❤️*\n@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1463315668773634353"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1463315668773634353"
     },
     {
       "id": "1457656698465681554",
       "posted": "2026-01-05T08:47:18.866000+00:00",
-      "title": "<@&1406474177849983026>",
-      "body": "<@&1406474177849983026>",
+      "title": "@📣 Announcements",
+      "body": "@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1457656698465681554"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1457656698465681554"
     },
     {
       "id": "1457656613983752202",
@@ -119,23 +111,23 @@
       "title": "Is 24 hoppers per chunk a reasonable increase from the previous 16?",
       "body": "\n\n**Is 24 hoppers per chunk a reasonable increase from the previous 16?**\n\n✅ Yes | ❌ No — Vote below!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1457656613983752202"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1457656613983752202"
     },
     {
       "id": "1456061019884617728",
       "posted": "2025-12-31T23:06:39.446000+00:00",
-      "title": "# Happy New Year! 🎉",
-      "body": "# Happy New Year! 🎉\n\n\n## Thank you for all of your support! ❤️ \n\nAbout 6 months ago this server was just an idea. To see how far it’s come in such a short time is beyond what I could have hoped and dreamed. \n\nI’d just like to extend a huge thank you to YOU, the players! Without your continued support, patience, and gratitude absolutely none of this would have been possible.\n\n*Feel free to share any New Year’s resolutions you have for the upcoming year in <#1391645092980457655>  *\n\n**Hope you all enjoy the new year with your loved ones ** \n\nThank you \n\n- The JartonMC team\n\n@everyone",
+      "title": "Happy New Year! 🎉",
+      "body": "# Happy New Year! 🎉\n\n\n## Thank you for all of your support! ❤️ \n\nAbout 6 months ago this server was just an idea. To see how far it’s come in such a short time is beyond what I could have hoped and dreamed. \n\nI’d just like to extend a huge thank you to YOU, the players! Without your continued support, patience, and gratitude absolutely none of this would have been possible.\n\n*Feel free to share any New Year’s resolutions you have for the upcoming year in #🧨┃off-topic  *\n\n**Hope you all enjoy the new year with your loved ones ** \n\nThank you \n\n- The JartonMC team\n\n@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1456061019884617728"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1456061019884617728"
     },
     {
       "id": "1449113419117756577",
       "posted": "2025-12-12T18:59:22.343000+00:00",
       "title": "We have had a **major issue** on the server this afternoon, which has unfortunately meant we've **restored from a backup…",
-      "body": "We have had a **major issue** on the server this afternoon, which has unfortunately meant we've **restored from a backup** made approximately **~15hours ago**. \n\nWe are going to try and manually restore player data and map data lost within these 15 hours, however this might not be possible and is unlikely. \n\nI understand that many of you have played during this time and in turn will have lost items and progress. If we are unable to manually restore playerdata, we are going to do our best to reimburse all of you, including multiple key-alls, please do __**make a ticket if you've been affected**__, and a member of staff will restore your progress as best as possible.\n\nso sorry for the inconvenience.\n\nWe will keep you updated.\n<@&1406474177849983026>",
+      "body": "We have had a **major issue** on the server this afternoon, which has unfortunately meant we've **restored from a backup** made approximately **~15hours ago**. \n\nWe are going to try and manually restore player data and map data lost within these 15 hours, however this might not be possible and is unlikely. \n\nI understand that many of you have played during this time and in turn will have lost items and progress. If we are unable to manually restore playerdata, we are going to do our best to reimburse all of you, including multiple key-alls, please do **make a ticket if you've been affected**, and a member of staff will restore your progress as best as possible.\n\nso sorry for the inconvenience.\n\nWe will keep you updated.\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1449113419117756577"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1449113419117756577"
     },
     {
       "id": "1448362757576593631",
@@ -143,15 +135,15 @@
       "title": "Should we keep Automatic Killing Farms banned?",
       "body": "\n\n**Should we keep Automatic Killing Farms banned?**\n\n✅ Yes | ❌ No — Vote below!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1448362757576593631"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1448362757576593631"
     },
     {
       "id": "1446874648234033233",
       "posted": "2025-12-06T14:43:17.770000+00:00",
-      "title": "# 🎄 Holidays 15% Sale 🥳 ",
-      "body": "# 🎄 Holidays 15% Sale 🥳 \n\n## 15% Off STORE-WIDE! Until January 2nd ❄️ \nEnjoy **15% off** Crates, Ranks, Nectar and more at: __**[store.jarton.me](https://store.jarton.me/)**__!\n\n⏰ **Starts:** __**NOW**__\n⏳**Ends: **January 2nd\n\nOur way of saying a big **thank you** to everyone who's supported us throughout our beta so far!\n**Hope you all enjoy the holiday season **🎁\n\nThank you - The JartonMC team <@&1406474177849983026>",
+      "title": "🎄 Holidays 15% Sale 🥳",
+      "body": "# 🎄 Holidays 15% Sale 🥳 \n\n## 15% Off STORE-WIDE! Until January 2nd ❄️ \nEnjoy **15% off** Crates, Ranks, Nectar and more at: **[store.jarton.me](https://store.jarton.me/)**!\n\n⏰ **Starts:** **NOW**\n⏳**Ends: **January 2nd\n\nOur way of saying a big **thank you** to everyone who's supported us throughout our beta so far!\n**Hope you all enjoy the holiday season **🎁\n\nThank you - The JartonMC team @📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1446874648234033233"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1446874648234033233"
     },
     {
       "id": "1446335326497804339",
@@ -159,47 +151,47 @@
       "title": "Thank you 🥲",
       "body": "Thank you 🥲",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1446335326497804339"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1446335326497804339"
     },
     {
       "id": "1446335053394346024",
       "posted": "2025-12-05T02:59:08.335000+00:00",
-      "title": "## HAPPY BIRTHDAY 🎉",
-      "body": "## HAPPY BIRTHDAY 🎉\n\nToday is a very special day @everyone. Today we celebrate the birthday of one of the most important people in the creation of this community <@374332200600207364>\n\nSpiked joined this team about 6 months ago and pretty much hit the ground running for us. Him and I have had many long frustrating nights together working on bringing you this experience and without him none of this would have been possible.\n\nJust so you guys have an idea of what goes on behind the scenes… Spiked has spent pretty much every single day on the server working on it since he joined the team. He’s skipped school on numerous occasions to spend more time bringing you guys this experience. Without Spiked JartonMC is not the same.\n\nHappy birthday <@374332200600207364>  ! On behalf of this community we truly truly appreciate everything you have & continuing to do for this community. We hope you have a fantastic birthday ❤️\n\n- On behalf of the entire server",
+      "title": "HAPPY BIRTHDAY 🎉",
+      "body": "## HAPPY BIRTHDAY 🎉\n\nToday is a very special day @everyone. Today we celebrate the birthday of one of the most important people in the creation of this community @Spiked\n\nSpiked joined this team about 6 months ago and pretty much hit the ground running for us. Him and I have had many long frustrating nights together working on bringing you this experience and without him none of this would have been possible.\n\nJust so you guys have an idea of what goes on behind the scenes… Spiked has spent pretty much every single day on the server working on it since he joined the team. He’s skipped school on numerous occasions to spend more time bringing you guys this experience. Without Spiked JartonMC is not the same.\n\nHappy birthday @Spiked  ! On behalf of this community we truly truly appreciate everything you have & continuing to do for this community. We hope you have a fantastic birthday ❤️\n\n- On behalf of the entire server",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1446335053394346024"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1446335053394346024"
     },
     {
       "id": "1445834973889302579",
       "posted": "2025-12-03T17:52:00.090000+00:00",
-      "title": "## Server Maintenance.",
-      "body": "## Server Maintenance.\n\nServer will be down for maintenance for a little while. We are setting up a new system. \n\nThank you for your patience everyone.\n\n<@&1406474177849983026>",
+      "title": "Server Maintenance.",
+      "body": "## Server Maintenance.\n\nServer will be down for maintenance for a little while. We are setting up a new system. \n\nThank you for your patience everyone.\n\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1445834973889302579"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1445834973889302579"
     },
     {
       "id": "1443863099571572959",
       "posted": "2025-11-28T07:16:28.617000+00:00",
-      "title": "# 🎉 Black Friday Sale LIVE NOW! 🎉",
-      "body": "# 🎉 Black Friday Sale LIVE NOW! 🎉\n\nVisit https://store.jarton.me/ -- Get 30% off everything until Sunday, 12:00 AM MST\n<@&1406474177849983026>",
+      "title": "🎉 Black Friday Sale LIVE NOW! 🎉",
+      "body": "# 🎉 Black Friday Sale LIVE NOW! 🎉\n\nVisit https://store.jarton.me/ -- Get 30% off everything until Sunday, 12:00 AM MST\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1443863099571572959"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1443863099571572959"
     },
     {
       "id": "1442918079616254086",
       "posted": "2025-11-25T16:41:18.302000+00:00",
-      "title": "# 🎉 Black Friday Store-Wide SALE! - 30% OFF!!  🎉",
-      "body": "# 🎉 Black Friday Store-Wide SALE! - 30% OFF!!  🎉\n\nGet ready… our biggest sale of the year is almost here!\nFor 48 hours, enjoy **30% off everything** on the store — **Crate Keys, Nectar, Ranks, Perks, and more.**\n\n⏰ **Starts:** Friday, 12:00 AM MST\n⏳ **Duration:** Sunday, 12:00 AM MST\n\nThis is our way of saying **thank you** for all your support throughout Beta.\nWe couldn’t do this without you.\n\nBest regards, JartonMC Staff Team.\n<@&1406474177849983026>",
+      "title": "🎉 Black Friday Store-Wide SALE! - 30% OFF!!  🎉",
+      "body": "# 🎉 Black Friday Store-Wide SALE! - 30% OFF!!  🎉\n\nGet ready… our biggest sale of the year is almost here!\nFor 48 hours, enjoy **30% off everything** on the store — **Crate Keys, Nectar, Ranks, Perks, and more.**\n\n⏰ **Starts:** Friday, 12:00 AM MST\n⏳ **Duration:** Sunday, 12:00 AM MST\n\nThis is our way of saying **thank you** for all your support throughout Beta.\nWe couldn’t do this without you.\n\nBest regards, JartonMC Staff Team.\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1442918079616254086"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1442918079616254086"
     },
     {
       "id": "1442728901565747220",
       "posted": "2025-11-25T04:09:34.740000+00:00",
-      "title": "<@&1406474177849983026> The server is back up! Join in and we will restore all of your player data, this has to be done …",
-      "body": "<@&1406474177849983026> The server is back up! Join in and we will restore all of your player data, this has to be done manually so if you login and need your items back feel free to ping either <@374332200600207364> <@348092644897062912> or <@400109888178487296> in your ticket If you see any of us online and we will start restoring your data.",
+      "title": "@📣 Announcements The server is back up! Join in and we will restore all of your player data, this has to be done manuall…",
+      "body": "@📣 Announcements The server is back up! Join in and we will restore all of your player data, this has to be done manually so if you login and need your items back feel free to ping either @Spiked @Static or @ItsJustJar in your ticket If you see any of us online and we will start restoring your data.",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1442728901565747220"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1442728901565747220"
     },
     {
       "id": "1442723145168715917",
@@ -207,31 +199,31 @@
       "title": "Sorry to anyone that is trying to connect to the server we are having some resource pack issues, we are trying to fix it…",
       "body": "Sorry to anyone that is trying to connect to the server we are having some resource pack issues, we are trying to fix it now I will notify when the server is up and running!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1442723145168715917"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1442723145168715917"
     },
     {
       "id": "1442346935112568872",
       "posted": "2025-11-24T02:51:46.841000+00:00",
-      "title": "<@&1406474177849983026>",
-      "body": "<@&1406474177849983026>",
+      "title": "@📣 Announcements",
+      "body": "@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1442346935112568872"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1442346935112568872"
     },
     {
       "id": "1442346727779864606",
       "posted": "2025-11-24T02:50:57.409000+00:00",
-      "title": "# 🚨 IMPORTANT 🚨",
-      "body": "# 🚨 IMPORTANT 🚨\n\n## We’ll soon be switching over everyone’s UUIDs. Unfortunately, this means in-game player data won’t carry over automatically. **BUT**, to help prevent any item loss, we’re asking all players to log in as soon as possible and move anything you want to keep into a regular chest. This includes items in your /vault and ender chest, since those will not transfer. \n\nWhen done we ask everyone to create tickets by going to <#1404569391139393707> and creating an **Appeal** ticket sending screenshots of your:  **ranks, towns (including town rank & location), exp, Questline progress and BANK BALANCE** and any **other ownership data**.\n\nWe’ll also be running **multiple key drops** as a thank-you for your patience during this process. And if you notice you’re missing a significant amount of items afterward, just open a ticket with screenshots so we can help restore anything lost so please don’t stress.\n\n**This does NOT include builds, ONLY playerdata and items**\n## __**This change will happen in 24 HOURS** - Please create your tickets as soon as possible to ensure you don't lose any of your progress.__\n\nWe know this isn’t the kind of announcement anyone likes to hear, but we’re doing everything we can to make this transition smooth and fair for every player. Thank you for being patient, understanding, and part of our community. ❤️\n@everyone",
+      "title": "🚨 IMPORTANT 🚨",
+      "body": "# 🚨 IMPORTANT 🚨\n\n## We’ll soon be switching over everyone’s UUIDs. Unfortunately, this means in-game player data won’t carry over automatically. **BUT**, to help prevent any item loss, we’re asking all players to log in as soon as possible and move anything you want to keep into a regular chest. This includes items in your /vault and ender chest, since those will not transfer. \n\nWhen done we ask everyone to create tickets by going to #🎟️┃open-ticket and creating an **Appeal** ticket sending screenshots of your:  **ranks, towns (including town rank & location), exp, Questline progress and BANK BALANCE** and any **other ownership data**.\n\nWe’ll also be running **multiple key drops** as a thank-you for your patience during this process. And if you notice you’re missing a significant amount of items afterward, just open a ticket with screenshots so we can help restore anything lost so please don’t stress.\n\n**This does NOT include builds, ONLY playerdata and items**\n## **This change will happen in 24 HOURS** - Please create your tickets as soon as possible to ensure you don't lose any of your progress.\n\nWe know this isn’t the kind of announcement anyone likes to hear, but we’re doing everything we can to make this transition smooth and fair for every player. Thank you for being patient, understanding, and part of our community. ❤️\n@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1442346727779864606"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1442346727779864606"
     },
     {
       "id": "1441176874939060428",
       "posted": "2025-11-20T21:22:22.757000+00:00",
-      "title": "<@&1406474177849983026> ",
-      "body": "<@&1406474177849983026> \n\nWe are **updating** and improving our towny plugin to a new one.\n\nWhich unfortunately means the **current towns will be deleted**, so please **withdraw __everything__ from your town bank**\nWe are planning to make this switch in about **24 hours from now**\n\nThis wont affect any other progress except from towns, so please re-form the your towns when this switch has been made\nany issues then please create a ticket :)",
+      "title": "@📣 Announcements",
+      "body": "@📣 Announcements \n\nWe are **updating** and improving our towny plugin to a new one.\n\nWhich unfortunately means the **current towns will be deleted**, so please **withdraw everything from your town bank**\nWe are planning to make this switch in about **24 hours from now**\n\nThis wont affect any other progress except from towns, so please re-form the your towns when this switch has been made\nany issues then please create a ticket :)",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1441176874939060428"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1441176874939060428"
     },
     {
       "id": "1440537947597439059",
@@ -239,7 +231,7 @@
       "title": "@hereThe server is back up! I am sorry for any inconveience, I will be doing a keyall here in 10 minutes or so!",
       "body": "@hereThe server is back up! I am sorry for any inconveience, I will be doing a keyall here in 10 minutes or so!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1440537947597439059"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1440537947597439059"
     },
     {
       "id": "1440401124996677682",
@@ -247,79 +239,79 @@
       "title": "Services restored! Please disregard",
       "body": "Services restored! Please disregard",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1440401124996677682"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1440401124996677682"
     },
     {
       "id": "1440347894363197522",
       "posted": "2025-11-18T14:28:18.386000+00:00",
-      "title": "@here cloudflare servers are down and are disrupting some of our connectivity. ",
+      "title": "@here cloudflare servers are down and are disrupting some of our connectivity.",
       "body": "@here cloudflare servers are down and are disrupting some of our connectivity. \n\nAs it appears the server is still up and running but our website and discord link is being affected.\n\nThere is nothing we can do as this is a large company that runs a large part of the internet including X and other major services. This is nothing from our end. \n\nDon’t be alarmed if you struggle with any connectivity until further notice. \n\nThank you!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1440347894363197522"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1440347894363197522"
     },
     {
       "id": "1440173168911454258",
       "posted": "2025-11-18T02:54:00.592000+00:00",
       "title": "@everyone The /rankup rewards are currently not working, we are implementing a fix ASAP, I will notify when it is fixed …",
-      "body": "@everyone The /rankup rewards are currently not working, we are implementing a fix ASAP, I will notify when it is fixed in <#1439620732651966524> -- Thank you for understanding, sorry for any inconvenience.",
+      "body": "@everyone The /rankup rewards are currently not working, we are implementing a fix ASAP, I will notify when it is fixed in #⚙️┃change-log -- Thank you for understanding, sorry for any inconvenience.",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1440173168911454258"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1440173168911454258"
     },
     {
       "id": "1439329689415061746",
       "posted": "2025-11-15T19:02:19.409000+00:00",
-      "title": "# JartonMC IS NOW RELEASED 🍯 🥳 ",
-      "body": "# JartonMC IS NOW RELEASED 🍯 🥳 \n## for Early Open Beta 💻 \n\nWe would love your feedback, so please **buzz** on and come **JOIN THE HIVE**🐝 <:jartonmc:1434532713653862483> \n\n**Join at:**\n## <:Banner:1405072834107015258> mc.jarton.me \non **Version 1.21.4**\n\n*Were still in early days, so please report any bugs you find in <#1438928458892968167>*\n\nA **Massive** thank you to our <@&1391645092137406499>, we're so proud to show off our hard work!\n@everyone",
+      "title": "JartonMC IS NOW RELEASED 🍯 🥳",
+      "body": "# JartonMC IS NOW RELEASED 🍯 🥳 \n## for Early Open Beta 💻 \n\nWe would love your feedback, so please **buzz** on and come **JOIN THE HIVE**🐝 :jartonmc: \n\n**Join at:**\n## :Banner: mc.jarton.me \non **Version 1.21.4**\n\n*Were still in early days, so please report any bugs you find in #🐛┃bug-reports*\n\nA **Massive** thank you to our @⚕️ Staff Team, we're so proud to show off our hard work!\n@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1439329689415061746"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1439329689415061746"
     },
     {
       "id": "1438893446344736872",
       "posted": "2025-11-14T14:08:50.956000+00:00",
-      "title": "## Invite Rewards 🗞️ 💸 ",
-      "body": "## Invite Rewards 🗞️ 💸 \n\n**Discord Server Invites will now reward you with Crate Keys 🗝️ <:nectar:1405072857968410705> **\nEvery __**3**__ **Player Joins** from your discord invites, will reward you with an **Rare Crate Key 🪙 ** on JartonMC\n\n*This is stackable! The more invites the more Rewards 🤑 *, Create a support ticket to claim your keys!\n\n<@&1406474177849983026>",
+      "title": "Invite Rewards 🗞️ 💸",
+      "body": "## Invite Rewards 🗞️ 💸 \n\n**Discord Server Invites will now reward you with Crate Keys 🗝️ :nectar: **\nEvery **3** **Player Joins** from your discord invites, will reward you with an **Rare Crate Key 🪙 ** on JartonMC\n\n*This is stackable! The more invites the more Rewards 🤑 *, Create a support ticket to claim your keys!\n\n@📣 Announcements",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1438893446344736872"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1438893446344736872"
     },
     {
       "id": "1437863401576599562",
       "posted": "2025-11-11T17:55:49.146000+00:00",
       "title": "TikTok · JartonMC",
-      "body": "# <:jartonmc:1434532713653862483> JartonMC Beta Release 🎉 \nJartonMC has been in the works for the best part of a year. Our amazing <@&1391645092137406499> has been working tirelessly to give **YOU** the best possible experience. With many bumps in the road, at long last, we are proud to finally show off our incredible creation 🥳 \n\nFrom **🧭 Interactive Quests** to **🧱 Modular dungeons**, this towny server is more than your average Minecraft survival experience. \n\n### 🍯 Please Join Us for our Beta-Release on.... 🥁 \n## 15th November 2025 12pm MST\n**IP: mc.jarton.me**\n\n👋 We cant wait for you to **Join The Hive**, and shape the future of JartonMC <:Banner:1405072834107015258> \n\nThanks again to @everyone - I look forward to hearing all your feedback and future suggestions for the full release!\n*sorry if you've seen this message before, we were having issues with people viewing <#1392986806546333787> *\nhttps://www.tiktok.com/t/ZP8DVFFE2/\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
+      "body": "# :jartonmc: JartonMC Beta Release 🎉 \nJartonMC has been in the works for the best part of a year. Our amazing @⚕️ Staff Team has been working tirelessly to give **YOU** the best possible experience. With many bumps in the road, at long last, we are proud to finally show off our incredible creation 🥳 \n\nFrom **🧭 Interactive Quests** to **🧱 Modular dungeons**, this towny server is more than your average Minecraft survival experience. \n\n### 🍯 Please Join Us for our Beta-Release on.... 🥁 \n## 15th November 2025 12pm MST\n**IP: mc.jarton.me**\n\n👋 We cant wait for you to **Join The Hive**, and shape the future of JartonMC :Banner: \n\nThanks again to @everyone - I look forward to hearing all your feedback and future suggestions for the full release!\n*sorry if you've seen this message before, we were having issues with people viewing #📣┃announcements *\nhttps://www.tiktok.com/t/ZP8DVFFE2/\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
       "image_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4UIBiAZIb0KqZCRIASiwqirCi2KUifS7IA6Z7~tplv-tiktokx-origin.image?dr=9636&x-expires=1763053200&x-signature=nckKefsChIOz2BvLzHFYtF2dvPU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1437863401576599562"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1437863401576599562"
     },
     {
       "id": "1424432409855922348",
       "posted": "2025-10-05T16:25:51.184000+00:00",
       "title": "TikTok · JartonMC",
-      "body": "<@&1406474177849983026> \n\nYou heard it here first.\n\nhttps://www.tiktok.com/t/ZP8AjJ51B/\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
+      "body": "@📣 Announcements \n\nYou heard it here first.\n\nhttps://www.tiktok.com/t/ZP8AjJ51B/\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
       "image_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8EEiFodpBbmEeDmIf0AxVBAEtmbM4xYDDrARw~tplv-tiktokx-origin.image?dr=9636&x-expires=1759852800&x-signature=lGsjTwG6kdvWfptFuLXRZ8RdB0o%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1424432409855922348"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1424432409855922348"
     },
     {
       "id": "1421654592558731367",
       "posted": "2025-09-28T00:27:47.931000+00:00",
       "title": "TikTok · JartonMC",
-      "body": "<@&1406474177849983026> \n\nhttps://www.tiktok.com/@jartonmc/video/7554903657490255134?is_from_webapp=1&sender_device=pc&web_id=7553456292015834640\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
+      "body": "@📣 Announcements \n\nhttps://www.tiktok.com/@jartonmc/video/7554903657490255134?is_from_webapp=1&sender_device=pc&web_id=7553456292015834640\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
       "image_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okf0pyIXCQBbJYqi4aiQMI1Oi99YIAA5DYIqFA~tplv-tiktokx-origin.image?dr=9636&x-expires=1759190400&x-signature=27eFI6f2iYojoa3jQMXaBZZ1DOc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1421654592558731367"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1421654592558731367"
     },
     {
       "id": "1420124815066661037",
       "posted": "2025-09-23T19:09:00.555000+00:00",
-      "title": "# 📚 JartonMC Storyline 📚",
-      "body": "# 📚 JartonMC Storyline 📚\n\n\nJartonMC will have an extremely in-depth storyline with Interactive Quests, NPCs, and Objects. The storyline will take you through the liberation of Paradise Cove by completing dungeons with friends and exploring the endless world of resources. The storyline will provide a guided walkthrough of the server from start to finish, introducing players to core mechanics, unlockable features, and the evolving world around them.\n\n> 🧭 **Interactive Quests:**\n> Dialogue-rich missions with branching paths and lore-driven objectives\n\n> 🧱 **Modular Dungeons: **\n> Scalable challenges designed for solo or co-op play, each tied to the Cove’s liberation arc\n\n> 🧑‍🤝‍🧑 **Dynamic NPCs & Objects:** \n> Every character and item serves a purpose—whether unlocking new zones, revealing secrets, or advancing the storyline\n\n> 🌍 **Endless Exploration:**\n> Resource-rich biomes, hidden relics, and evolving world events that reward curiosity and teamwork\n\n\n**❓ Quest Functionality ❓**\nI have been working all this past week to get the storyline system functioning and getting it made, right now we have a basic structure for our quests and I am starting to implement it now. \n\n**💡 Suggestions/Ideas 💡**\nI am open to any and all suggestions or ideas for side quests or npcs,\nif you want to share your ideas, give a little summary and ping me in <#1391645092980457661> \n\n# 👀 Sneak Peak 👀\n@everyone",
+      "title": "📚 JartonMC Storyline 📚",
+      "body": "# 📚 JartonMC Storyline 📚\n\n\nJartonMC will have an extremely in-depth storyline with Interactive Quests, NPCs, and Objects. The storyline will take you through the liberation of Paradise Cove by completing dungeons with friends and exploring the endless world of resources. The storyline will provide a guided walkthrough of the server from start to finish, introducing players to core mechanics, unlockable features, and the evolving world around them.\n\n> 🧭 **Interactive Quests:**\n> Dialogue-rich missions with branching paths and lore-driven objectives\n\n> 🧱 **Modular Dungeons: **\n> Scalable challenges designed for solo or co-op play, each tied to the Cove’s liberation arc\n\n> 🧑‍🤝‍🧑 **Dynamic NPCs & Objects:** \n> Every character and item serves a purpose—whether unlocking new zones, revealing secrets, or advancing the storyline\n\n> 🌍 **Endless Exploration:**\n> Resource-rich biomes, hidden relics, and evolving world events that reward curiosity and teamwork\n\n\n**❓ Quest Functionality ❓**\nI have been working all this past week to get the storyline system functioning and getting it made, right now we have a basic structure for our quests and I am starting to implement it now. \n\n**💡 Suggestions/Ideas 💡**\nI am open to any and all suggestions or ideas for side quests or npcs,\nif you want to share your ideas, give a little summary and ping me in #🪶┃suggestions \n\n# 👀 Sneak Peak 👀\n@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1420124815066661037"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1420124815066661037"
     },
     {
       "id": "1418987964263956630",
       "posted": "2025-09-20T15:51:34.202000+00:00",
-      "title": "# 👀 Market Sneak Peak 👀",
-      "body": "# 👀 Market Sneak Peak 👀\n\nHey everyone! I want to take a moment to highlight the incredible work done by <@348092644897062912>, who’s built out a fully custom Marketplace for the server. He’s put in serious time and effort to get this right, and the results speak for themselves. Huge thanks to him for making this happen.\n\n**Beta Release**\nWe know development hasn’t been without its bumps, and I appreciate everyone’s patience while we’ve worked through the backend. Between plugin quirks, config cleanup, and polish passes, it’s been a grind — but we’re finally closing in.\n\nWe’re in the final stretch. Last round of bug fixes and polish are underway. Once that’s done, we’ll post the full changelog.\n\nThanks again to everyone who’s been part of this process — we’re building something special here, and I’m excited for what’s next.\n\n@everyone",
+      "title": "👀 Market Sneak Peak 👀",
+      "body": "# 👀 Market Sneak Peak 👀\n\nHey everyone! I want to take a moment to highlight the incredible work done by @Static, who’s built out a fully custom Marketplace for the server. He’s put in serious time and effort to get this right, and the results speak for themselves. Huge thanks to him for making this happen.\n\n**Beta Release**\nWe know development hasn’t been without its bumps, and I appreciate everyone’s patience while we’ve worked through the backend. Between plugin quirks, config cleanup, and polish passes, it’s been a grind — but we’re finally closing in.\n\nWe’re in the final stretch. Last round of bug fixes and polish are underway. Once that’s done, we’ll post the full changelog.\n\nThanks again to everyone who’s been part of this process — we’re building something special here, and I’m excited for what’s next.\n\n@everyone",
       "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1418987962720452738/2025-09-20_11.22.03.png?ex=6a11cd05&is=6a107b85&hm=ac085b6623e07518450836e0d48d41e4cb5d223607bb6fd43ebf572379c090e0&",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1418987964263956630"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1418987964263956630"
     },
     {
       "id": "1405311569834934455",
@@ -327,7 +319,7 @@
       "title": "JartonMC Server Trailer",
       "body": "**SERVER MEDIA**\n\nHey everyone! Just wanted to introduce you all to our social media pages for the server. We've just posted our official server trailer on all of our accounts and invite you to check it out! While your there if you could follow/subscribe we would be very grateful.\n\n**YouTube**: https://youtu.be/qsrLkexhPfs?si=fZai_-nNiqEQa-C-\n\n**Instagram**:  https://www.instagram.com/reel/DNT6x0ZSnKz/?utm_source=ig_web_copy_link&igsh=MTdnenZ1NXA1aDR6Nw==\n\n**TikTok**: https://www.tiktok.com/t/ZP8kEWCYN/\n\n\nThank you for your attention.\n\n-JartonMC Team\n\n@everyone\n\n**JartonMC Server Trailer**\n\n🐝 Welcome to JartonMC – A Honey-Drenched Adventure Awaits! 🍯\n\nStep into JartonMC, a fantasy-themed Minecraft survival server where giant bees have taken over a once-thriving coastal village. Experience custom items, enchants, Towny, dungeons, rank-ups, and immersive lore that will keep you buzzing for more!\n\n🎮 IP: mc.jarton.me\n🖥 Ve...\n\n🐝 Welcome to JartonMC – A Honey-Drenched Adventure Awaits! 🍯\n\nStep into JartonMC, a fantasy-themed Minecraft survival server where giant bees have taken over a once-thriving coastal village. Experience custom items, enchants, Towny, dungeons, rank-ups, and immersive lore that will keep you buzzing for more!\n\n🎮 IP: mc.jarton.me\n🖥 Ve...\n\n**TikTok · JartonMC**\n\nCheck out JartonMC’s video.",
       "image_url": "https://i.ytimg.com/vi/qsrLkexhPfs/maxresdefault.jpg",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1405311569834934455"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1405311569834934455"
     },
     {
       "id": "1404932473242128444",
@@ -335,23 +327,23 @@
       "title": "Do not try to register yet, still working on systems",
       "body": "Do not try to register yet, still working on systems",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1404932473242128444"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1404932473242128444"
     },
     {
       "id": "1404931590735265926",
       "posted": "2025-08-12T20:56:33.598000+00:00",
-      "title": "**UPDATE**  Website is officially live. There will be changes in the coming days but its accessible at `Jarton.me`",
+      "title": "UPDATE**  Website is officially live. There will be changes in the coming days but its accessible at `Jarton.me`",
       "body": "\n\n**UPDATE**  Website is officially live. There will be changes in the coming days but its accessible at `Jarton.me`\n\n*— JartonMC Team*",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1404931590735265926"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1404931590735265926"
     },
     {
       "id": "1404872960816189510",
       "posted": "2025-08-12T17:03:35.136000+00:00",
-      "title": "<@1391873606950064188>  has been updated",
-      "body": "<@1391873606950064188>  has been updated\nUse /help to view the new commands. ||@everyone||\n\nBelow is a list of  commands available:\n\n🎟️Support&Applications\n• /apply — Start an application\n• /resetcooldown — Reset a user’s application cooldown\n• /send-support — Display the support panel\n\n🎉Giveaways\n• /giveaway — Initiate a giveaway\n• /reroll — Reroll a giveaway winner\n• /cancelgiveaway — Cancel an active giveaway\n• /giveawaylist — List all active giveaways\n\n📨 Invites&Ranking\n• /invites — Show your or another member’s invite count\n• /topinvites — View the top inviters on the server\n• /rank — Check your or another member’s rank\n\n🛠️ Mod\n• /warn — Warn a user\n• /kick — Kick a user from the server\n• /ban — Ban a user\n• /softban — Temporarily ban a user\n• /mute — Mute a user\n• /slowmode — Set slowmode delay for a channel\n• /purge — Delete messages\n\n📊 EngagementUtilities\n• /poll — Create a yes/no poll\n• /announce — Send an announcement to the server\n• /help — Display this help menu\n• /helpstaff — Show staff-only commands\n• /userinfo — Display information about a user\n• /serverinfo — Show server details\n• /avatar — Display a user’s avatar\n• /remind — Set a reminder\n• /timer — Start a countdown timer\n• /translate — Translate text to another language\n• /weather — Get the current weather\n• /coinflip — Flip a coin\n• /roll — Roll dice\n• /math — Calculate a math expression\n• /quote — Receive a random inspirational quote\n• /joke — Get a random joke\n• /fact — Learn a random fact\n• /8ball — Ask the magic 8ball a question\n• /trivia — Start a trivia quiz\n\n❤️ Social Commands\n• /marry — Propose marriage to another user\n• /divorce — Divorce your partner\n• /marriageinfo — View your marriage details\n• /slap — Slap another user playfully\n• /dadjoke — Send a silly dad joke\n• /kiss — Send a kiss to someone\n• /feed — Feed someone\n• /hug — Give someone a warm hug\n• /kill — (Just joking!) Pretend to kill someone\n• /fight — Start a friendly fight\n• /beatbox — Show off your beatboxing skills",
+      "title": "@JartonCore  has been updated",
+      "body": "@JartonCore  has been updated\nUse /help to view the new commands. ||@everyone||\n\nBelow is a list of  commands available:\n\n🎟️Support&Applications\n• /apply — Start an application\n• /resetcooldown — Reset a user’s application cooldown\n• /send-support — Display the support panel\n\n🎉Giveaways\n• /giveaway — Initiate a giveaway\n• /reroll — Reroll a giveaway winner\n• /cancelgiveaway — Cancel an active giveaway\n• /giveawaylist — List all active giveaways\n\n📨 Invites&Ranking\n• /invites — Show your or another member’s invite count\n• /topinvites — View the top inviters on the server\n• /rank — Check your or another member’s rank\n\n🛠️ Mod\n• /warn — Warn a user\n• /kick — Kick a user from the server\n• /ban — Ban a user\n• /softban — Temporarily ban a user\n• /mute — Mute a user\n• /slowmode — Set slowmode delay for a channel\n• /purge — Delete messages\n\n📊 EngagementUtilities\n• /poll — Create a yes/no poll\n• /announce — Send an announcement to the server\n• /help — Display this help menu\n• /helpstaff — Show staff-only commands\n• /userinfo — Display information about a user\n• /serverinfo — Show server details\n• /avatar — Display a user’s avatar\n• /remind — Set a reminder\n• /timer — Start a countdown timer\n• /translate — Translate text to another language\n• /weather — Get the current weather\n• /coinflip — Flip a coin\n• /roll — Roll dice\n• /math — Calculate a math expression\n• /quote — Receive a random inspirational quote\n• /joke — Get a random joke\n• /fact — Learn a random fact\n• /8ball — Ask the magic 8ball a question\n• /trivia — Start a trivia quiz\n\n❤️ Social Commands\n• /marry — Propose marriage to another user\n• /divorce — Divorce your partner\n• /marriageinfo — View your marriage details\n• /slap — Slap another user playfully\n• /dadjoke — Send a silly dad joke\n• /kiss — Send a kiss to someone\n• /feed — Feed someone\n• /hug — Give someone a warm hug\n• /kill — (Just joking!) Pretend to kill someone\n• /fight — Start a friendly fight\n• /beatbox — Show off your beatboxing skills",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1404872960816189510"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1404872960816189510"
     },
     {
       "id": "1404659093993422909",
@@ -359,31 +351,31 @@
       "title": "do this work",
       "body": "\n\n**do this work**\n\n✅ Yes | ❌ No — Vote below!",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1404659093993422909"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1404659093993422909"
     },
     {
       "id": "1399714852167094272",
       "posted": "2025-07-29T11:27:06.201000+00:00",
-      "title": "**📛 Represent the Jarton Legacy — Claim Your [JAR]  Tag**",
+      "title": "📛 Represent the Jarton Legacy — Claim Your [JAR]  Tag**",
       "body": "**📛 Represent the Jarton Legacy — Claim Your [JAR]  Tag**\n**🧱 The [JAR] tag is our official server identity — a mark of loyalty, style, and connection to the world of Jarton.**\n\n**🔥 Why Use the Tag?**\n\n**‣ Stand out as a verified member of the Jarton community**\n\n* **🎯 How to Add It:**\n\n* **click your profile edit settings**\n* **go down a bit**\n* **select server tag then jartonMC**\n\n⚔️ Real Players Wear Their Tag.\n\n**If you’re not tagged, you’re not Jarton.**\n\n**Ready to stand with us? Add [JAR] to your name today. ||@everyone||**",
       "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1399714851907178636/image.png?ex=6a118f0a&is=6a103d8a&hm=48bc3420db6211f55057ad43c8cea7a98a48bc24aa21cbfcb5a4ad1640d0e4c2&",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1399714852167094272"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1399714852167094272"
     },
     {
       "id": "1396971972768039004",
       "posted": "2025-07-21T21:47:52.792000+00:00",
-      "title": "@everyone",
+      "title": "Announcement",
       "body": "@everyone",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1396971972768039004"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1396971972768039004"
     },
     {
       "id": "1396971963939033250",
       "posted": "2025-07-21T21:47:50.687000+00:00",
-      "title": "**HUGE ANNOUNCEMENT**",
-      "body": "\n\n**HUGE ANNOUNCEMENT**\n\nWe are approaching our beta release! With that being said, we are looking to build up our discord audience in anticipation for it. \n\nTo help with our goal we are introducing a competition! The player that gets the most invites from now until our beta release will be awarded with our **ULTRA** premium role! This role will include some great perks for the winner!\n\nTo check your invites, use *!invites* in <#1391645092980457657>.\n\nThis competition is open to current members as well as future members. Good luck everyone!\n\n*— JartonMC Team*",
+      "title": "HUGE ANNOUNCEMENT**",
+      "body": "\n\n**HUGE ANNOUNCEMENT**\n\nWe are approaching our beta release! With that being said, we are looking to build up our discord audience in anticipation for it. \n\nTo help with our goal we are introducing a competition! The player that gets the most invites from now until our beta release will be awarded with our **ULTRA** premium role! This role will include some great perks for the winner!\n\nTo check your invites, use *!invites* in #📡┃bot-commands.\n\nThis competition is open to current members as well as future members. Good luck everyone!\n\n*— JartonMC Team*",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1396971963939033250"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1396971963939033250"
     },
     {
       "id": "1396731909869928538",
@@ -391,15 +383,7 @@
       "title": "We are aware of the errors after submitting *!apply* applications. We do receive them though so don’t worry!",
       "body": "\n\nWe are aware of the errors after submitting *!apply* applications. We do receive them though so don’t worry!\n\n*— JartonMC Team*",
       "image_url": "",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1396731909869928538"
-    },
-    {
-      "id": "1395528238779990049",
-      "posted": "2025-07-17T22:10:59.786000+00:00",
-      "title": "Announcement",
-      "body": "",
-      "image_url": "https://cdn.discordapp.com/attachments/1392986806546333787/1395528238834384997/Screenshot_2025-07-17_161023.png?ex=6a117d33&is=6a102bb3&hm=664d367be28312a397c9f948d80699eedb5a338c14c1208dfde49c4f1faa6f8a&",
-      "url": "https://discord.com/channels/@me/1392986806546333787/1395528238779990049"
+      "url": "https://discord.com/channels/1391645092137406494/1392986806546333787/1396731909869928538"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 ## Change Log #16 - 05/15/2026
 
-## :sunrise: "THE AWAKENING" — Chapter 1 Revamp
+## 🌅 "THE AWAKENING" — Chapter 1 Revamp
 
 <img alt="Chapter 1 Banner--LIVE" src="https://github.com/user-attachments/assets/89284678-ec31-4854-9994-e1f00525c233" />
 
@@ -123,20 +123,20 @@ Players can now purchase unique consumables with custom buffs and effects.
 ✔️ Added `/bakery`
 
 #### New Bakery Foods:
-> :hotdog: Hot Dog — Speed I (20s)
-> :popcorn: Popcorn — Jump Boost I (30s)
-> :hamburger: Burger — Strength I (15s)
-> :custard: Flan — Regeneration I (10s)
-> :bowl_with_spoon: Soup — Resistance I (20s)
-> :beverage_box: Orange Juice — Haste I (30s)
-> :bread: Bread — Passive Healing
-> :beer: Beer — Strength I + Nausea (15s)
-> :fire: Smore — Fire Resistance (20s)
-> :ice_cream: Ice Cream — Speed II (10s)
-> :apple: Apple Cake Slice — Regeneration II (5s)
-> :doughnut: Donut — Speed I + Jump Boost I (15s)
-> :corn: Corn Cob — Haste I (20s)
-> :jack_o_lantern: Pumpkin Spice Latte — Night Vision + Speed I (45s)
+> 🌭 Hot Dog — Speed I (20s)
+> 🍿 Popcorn — Jump Boost I (30s)
+> 🍔 Burger — Strength I (15s)
+> 🍮 Flan — Regeneration I (10s)
+> 🥣 Soup — Resistance I (20s)
+> 🧃 Orange Juice — Haste I (30s)
+> 🍞 Bread — Passive Healing
+> 🍺 Beer — Strength I + Nausea (15s)
+> 🔥 Smore — Fire Resistance (20s)
+> 🍨 Ice Cream — Speed II (10s)
+> 🍎 Apple Cake Slice — Regeneration II (5s)
+> 🍩 Donut — Speed I + Jump Boost I (15s)
+> 🌽 Corn Cob — Haste I (20s)
+> 🎃 Pumpkin Spice Latte — Night Vision + Speed I (45s)
 
 
 ### Dungeon Changes

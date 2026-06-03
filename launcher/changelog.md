@@ -4,7 +4,7 @@
 
 ## 🌅 "THE AWAKENING" — Chapter 1 Revamp
 
-<img alt="Chapter 1 Banner--LIVE" src="https://github.com/user-attachments/assets/89284678-ec31-4854-9994-e1f00525c233" />
+<img alt="Chapter 1 Banner--LIVE" src="/awakening-chapter1-banner.png" />
 
 If you have not already, make sure to read the full announcement regarding the Chapter 1 release. A lot of general information and story details are covered there that will not be fully repeated in this changelog.
 

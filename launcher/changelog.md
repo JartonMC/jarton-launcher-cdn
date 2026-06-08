@@ -1,5 +1,92 @@
 # Changelog
 
+## Change Log #18 - 06/08/2026
+
+## 🎊 Added Resource Pack support for ALL versions upward of 1.21.4 🎊
+
+*Bedrock coming next ;)*
+
+✔️ Versions prior to 1.21.4 are no longer permitted to connect.
+
+### Kill & Death Messages
+
+✔️ On death, chat shows a skull-led, mini-titled line that knows how you died, e.g. "☠ ᴅᴇᴀᴛʜ | SimplyJar got folded by Notch"
+
+✔️ 19 death scenarios, each with its own rotating pool of lines: fall, fire, lava, drowning, void, explosion, projectile, suffocation, starvation, lightning, cactus, thorns, magic, wither, freeze, falling anvils, mob kills, PvP, and a catch-all.
+
+✔️ Mob and PvP lines name the killer, so you know exactly who (or what) ended you.
+
+✔️ The vanilla death message is fully suppressed; only the custom one shows.
+
+### Visual Changes
+
+✔️ Remade /links menu & messages
+
+✔️ Added /wiki, and /website to commands
+
+✔️ Remade all /shop menus.
+
+✔️ Added custom recipe preview menu for the forgery
+
+✔️ Added Wumpus to spawn -- Click for discord link
+
+✔️ Added Custom Escape menu with server visuals and Links
+
+✔️ Added Server logo to scoreboard and Tab for HUB
+
+✔️ Removed MOTD from server status in discord.
+
+### Fixes/Changes
+
+✔️ Fixed discord account linking!
+
+✔️ Adder per server rank support (ranks will go across servers now, paid and staff only)
+
+✔️ Fixed dungeon door cinematic spawning you in the air
+
+✔️ Fixed dungeons consuming 2 keys.
+
+✔️ Completely fixed honey clicker monthly rewards, and scoreboard values.
+
+✔️ Fixed all broken badges
+
+✔️ Fixed /ah sell objective in Honey On The Market Quest.
+
+✔️ Fixed /spawn resetting the /rtp cooldown
+
+✔️ Fixed server voting.
+
+✔️ Fixed new players spawning in the ocean
+
+✔️ Fixed item inventory duplication when server restarting, relogging, or dying, due to rollback protection.
+
+### Pinata Party! (Vote party)
+
+We have been wanting to introduce this feature for a while, but we weren't quite sure on how to add a fun and unique twist to it! So we introduce to you, Pinata Party!
+
+So how does it work? Well, now your votes count for something, there is now a server wide goal of 50 votes, when the goal is reached it will start a Pinata Party at the club! You can view the goal either in spawn under the vote crate, or at the club - `/warp Pinata`
+
+✔️ Added Bouncer NPC with dialogue -- Will explain Pinata Party
+
+✔️ Added Club to spawn below Alfred's apple stand.
+
+✔️ Added Pinata Party -- When this event triggers, players will be able to enter the club, and attack the Pinata (Llama) for rewards!
+
+#### Voting Milestones:
+
+✔️ Added 10% chance to obtain 1x Command Crate Key from voting.
+
+✔️ Added Vote Milestones -- These are different milestones that you can get from voting:
+> - 12 Votes >> Rare Key
+> - 25 Votes >> Rare Key
+> - 50 Votes >> Rare Key
+> - 100 Votes >> Epic Key
+> - 150 Votes >> Epic Key
+> - 250 Votes >> 2x Epic Key
+> - 500 Votes >> Jartonite Key
+> - 750 Votes >> 2x Epic Key
+> - 1000 Votes >> 2x Jartonite Key + 250 Nectar
+
 ## Wiki Changelog - 06/03/2026
 
 The entire wiki has been rebuilt from the ground up and is live now at **wiki.jarton.me**. Everything below is what changed from the previous version of the wiki.

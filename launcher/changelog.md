@@ -1,5 +1,70 @@
 # Changelog
 
+## Wiki Changelog - 06/03/2026
+
+The entire wiki has been rebuilt from the ground up and is live now at **wiki.jarton.me**. Everything below is what changed from the previous version of the wiki.
+
+### Storyline & Quests
+✔️ Added a complete **Chapter I: The Awakening** walkthrough -- every quest in order, who to talk to, where to go, what to do, and what you earn.
+
+✔️ Added a full **Side Quests** page -- the Honey Slime Hunt, Locations Discovery, the Waymaker's Treasure Hunt, the Dwarven Bloodline, the Alchemist's Cauldron, and Octavius the Enchanter.
+
+✔️ Added an **NPC portrait to every story quest** (and every side quest), so you can always see who you're looking for.
+
+✔️ Added a **Lore Codex** with the in-game lore books.
+
+### New Beginner's Guide
+✔️ Completely rewrote the **Beginner's Guide** into a clean "start here" hub.
+
+✔️ New players are now pointed to **Jason at Jason's House** (just left of spawn) to begin the storyline.
+
+✔️ Added a simple 5-step path linking out to towns, jobs, skills, ranks, banking, quests, side quests, dungeons, and cosmetics.
+
+✔️ Removed the old outdated guide that referenced NPCs that no longer exist.
+
+### New Pages
+✔️ Added **Bosses** -- the full roster with pictures: the Miner's Wrath, the Pharaoh, Dracula, the Jungle boss + minibosses, the four key bosses, and the world threats.
+
+✔️ Added **Dungeon Keys** -- Astrid the Beast Handler, the four beasts, the menu, loadout upgrades, and how the beast fights work.
+
+✔️ Added **Locations & Discovery** -- discovering and claiming landmarks across the map as permanent fast-travel points (Cedric the Cartographer).
+
+✔️ Added **Gear & Accessories** -- the full `/gear` accessory system (rings, amulets, bracelets, charms) with real in-game stats.
+
+✔️ Added **AFK Pool** and **The Travelling Merchant** as their own pages.
+
+### Feature Guides
+✔️ Added/updated the full set of guides: Ranks & Rankup, Skills, Jobs, Badges & Battle Pass, Currency & Banking, Shops & Selling, Custom Items, Combat, Dungeons, Towns & Land, Player Warps, Pets & Eggs, Cosmetics, Events & Minigames, Voting & Rewards, and the Command List.
+
+✔️ Clarified the two rank tracks -- `/rankup` (free ladder) vs `/ranks` (premium Store ranks).
+
+✔️ Added the **signature dungeon weapons** (Dracula Sword, Ankh Scepter, Miner's Pickaxe, dungeon blades) to Custom Items.
+
+✔️ Added dungeon **loot crates** (common / rare / boss), the **Dungeon Life machine**, and the **party system** (`/party invite <player>`, every member needs their own key).
+
+✔️ Added a **Seasonal Crate** tier, **marketplace setup tips**, and filled out the command list (locations, gear, voucher shop, rank-perk commands).
+
+### Reorganization & Cleanup
+✔️ **Custom Enchantments** now lives inside the Features section instead of kicking you out to a separate page, and the tables now fit the screen -- no more sideways scrollbar.
+
+✔️ **Pinata Club** moved under Voting & Rewards.
+
+✔️ **Name-change machine** moved into Cosmetics.
+
+✔️ **Beekeeping** section removed.
+
+✔️ **Real vote links** wired directly into the Voting page.
+
+✔️ Split AFK Pool, the Travelling Merchant, and Player Warps out of the Economy/Shops pages into their own dedicated pages.
+
+### Images
+✔️ Added roughly **150 in-game screenshots** across the wiki -- NPC portraits on every quest, dungeon galleries, boss shots, the Hall of Fame (shoutout to **tf2**, our first-ever Eternal), chat tags, and the glow / heads / skills / jobs / rankup / parkour / KOTH menus.
+
+### Behind the Scenes
+✔️ Fixed the wiki rendering unstyled and a set of nav links that were 404ing -- every page now loads styled and correct, verified across the whole site.
+
+Live now → **wiki.jarton.me**. Still on the list: town spotlights and a couple of small tweaks.
+
 ## Change Log #16 - 05/15/2026
 
 ## 🌅 "THE AWAKENING" — Chapter 1 Revamp

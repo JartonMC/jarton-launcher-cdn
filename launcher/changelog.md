@@ -1,5 +1,57 @@
 # Changelog
 
+## Wiki Changelog - 06/09/2026
+
+Another documentation pass on the wiki -- a batch of new pages, freshly documented systems, updated rules, and a cleaner sidebar so every key feature is easy to find. Everything below changed since the rebuild.
+
+### New Pages
+
+✔️ Added **The Alchemist** -- Aldric's cauldron questline and all five tonics (Strength, Speed, Health, Luck, Mana) in one place.
+
+✔️ Added **Crates & Keys** -- every crate tier, how keys work, and where to open them.
+
+✔️ Added **Honey Clicker** -- upgrades, the monthly competition, rewards, and the current top 10 leaderboard.
+
+✔️ Added **Pinata Party** -- the server-wide vote party, the 50-vote goal, and how to get in.
+
+✔️ Added **The Bakery** -- Iris's shop and all 14 buff foods with their effects.
+
+✔️ Added **Friends & Trading** -- the friends list, trading, gold trades, and the gift system.
+
+### Newly Documented
+
+✔️ Added the full **Vote Milestones** ladder -- lifetime-vote rewards from 12 votes up to 1,000, plus the 10% Command Crate Key chance on every vote.
+
+✔️ Documented **Dungeon Souls** -- the 1% dungeon drop and Anvil Andy's gear crafting and salvage.
+
+✔️ Documented the custom **Kill & Death messages** on the Combat page.
+
+✔️ Documented **Chat Bubbles** and the **`:` emoji menu** on the Cosmetics page.
+
+✔️ Documented the **`/chestshop`** command set for setting up market stalls.
+
+✔️ Documented the **server network** -- the Hub, Towny survival, and Events servers, plus cross-server ranks.
+
+### Rules
+
+✔️ Added the **redstone & contraption rules** -- no flying machines, nether portal minecart loaders, ender pearl stasis chambers, or teleport traps.
+
+✔️ Added the **block placement limits** -- Observer 64, Piston 64, Hopper 24 per chunk.
+
+✔️ Added the **AFK-farming rules** -- no autoclickers, idle farming, or automated progression.
+
+### Corrections
+
+✔️ Updated the required version -- JartonMC now needs **Minecraft Java 1.21.4 or newer**.
+
+✔️ Corrected the **Bedrock status** -- Bedrock support is on the way but not live yet.
+
+### Reorganization & Cleanup
+
+✔️ Split the Alchemist, Crates, Honey Clicker, and Pinata Party out of larger pages into their own dedicated pages.
+
+✔️ The sidebar now lists **every key feature** on its own line, so it's easier to browse and discover what the Cove offers.
+
 ## Change Log #18 - 06/08/2026
 
 ## 🎊 Added Resource Pack support for ALL versions upward of 1.21.4 🎊

@@ -1,5 +1,25 @@
 # Changelog
 
+## Change Log #21 - 06/11/2026
+
+### New Spawner System
+
+✔️ We swapped out the old spawner plugin for a brand-new one built in-house, with stacking, menus, holograms, and a much cleaner feel.
+
+✔️ **Your spawners are safe.** -- Every spawner already placed on the server was carried straight over to the new system. Nothing was lost or reset.
+
+✔️ **Spawners now stack** -- place up to 4 of the same mob on one block instead of cramming blocks everywhere.
+
+✔️ **Every spawner has a floating hologram** -- a spinning mob icon and a panel showing the mob, the stack count, and the owner.
+
+✔️ **Right-click your spawner to open its menu** -- check its stats, toggle it on or off, split one off, pick the whole thing up, or transfer it to another player (with a confirm screen so you don't fat-finger it).
+
+✔️ **Mobs now stack up** -- spawned mobs pile into one stacked mob with a counter, so big farms run far lighter and are way easier to clear out.
+
+✔️ Break with any tool -- left-click drops one spawner off the stack, sneak-break drops the whole stack at once.
+
+✔️ Each spawner item is now color-themed to its mob -- Creeper spawners are green, Blaze fiery orange, Enderman purple, and so on.
+
 ## Change Log #20 - 06/11/2026
 
 ### Shop Revamp

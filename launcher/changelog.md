@@ -1,5 +1,25 @@
 # Changelog
 
+## Change Log #19 - 06/11/2026
+
+### Pets & Incubation Revamp
+
+✔️ **THE INCUBATOR GOT REBUILT!** -- The incubation stand, the egg display, and the whole hatching experience were rebuilt from the ground up.
+
+✔️ Hold your egg and right-click the incubation stand to open a clean new menu and start hatching right there.
+
+✔️ Your egg now floats and spins above the stand while it hatches, so you can actually watch it cook. When it's done it freezes and reads **completed**.
+
+✔️ A floating info bar sits above your egg showing its name, its star rating, a live progress bar, and the exact time remaining -- no more guessing.
+
+✔️ Everyone gets their own egg on the stand. Several players can use the same stand at once -- you only ever see your own egg, and nobody can block the stand from you.
+
+✔️ Stand near your hatching egg for some ambient feedback -- a soft tick and gentle honey particles.
+
+✔️ **Changed your mind? Cancel returns your egg.** -- Cancelling an incubation hands the egg item right back to you, so it's never wasted. (The nectar or gold spent to start isn't refunded.)
+
+✔️ Fixed Rare and Epic eggs displaying the wrong model -- both now show correctly.
+
 ## Wiki Changelog - 06/09/2026
 
 Another documentation pass on the wiki -- a batch of new pages, freshly documented systems, updated rules, and a cleaner sidebar so every key feature is easy to find. Everything below changed since the rebuild.

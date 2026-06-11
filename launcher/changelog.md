@@ -1,5 +1,30 @@
 # Changelog
 
+## Change Log #20 - 06/11/2026
+
+### Shop Revamp
+
+✔️ **THE SHOP GOT REDONE!** -- The entire server shop plugin has been **revamped from the ground up** with a cleaner look and smoother browsing.
+
+✔️ Added a brand-new **Spawner Shop** -- spawners are now purchasable **directly with gold**. No grinding mob spawners in caves, just buy and place.
+
+#### Spawner Prices:
+
+> - 🐄 **Cow Spawner** — `250,000` gold
+> - 🐷 **Pig Spawner** — `250,000` gold
+> - 🐑 **Sheep Spawner** — `250,000` gold
+> - 🐔 **Chicken Spawner** — `250,000` gold
+> - 🧟 **Zombie Spawner** — `750,000` gold
+> - 🕷️ **Spider Spawner** — `750,000` gold
+> - 💥 **Creeper Spawner** — `750,000` gold
+> - 💀 **Skeleton Spawner** — `750,000` gold
+> - 🟢 **Slime Spawner** — `800,000` gold
+> - 🔥 **Blaze Spawner** — `850,000` gold
+> - 🌋 **Magma Cube Spawner** — `850,000` gold
+> - 🟣 **Enderman Spawner** — `900,000` gold
+> - 🌊 **Elder Guardian Spawner** — `1,000,000` gold
+> - 🤖 **Iron Golem Spawner** — `1,200,000` gold
+
 ## Change Log #19 - 06/11/2026
 
 ### Pets & Incubation Revamp

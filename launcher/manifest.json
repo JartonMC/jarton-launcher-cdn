@@ -1,5 +1,5 @@
 {
-  "launcher_version": "0.2.0",
+  "launcher_version": "1.0.1",
   "min_supported_version": "0.2.0",
   "instance": {
     "name": "Jarton",
@@ -11,59 +11,64 @@
       "port": 25565
     },
     "mods": [],
-    "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-v1.2.1/jarton-instance.zip",
-    "pack_version": "1.2.1"
+    "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-v1.2.2/jarton-instance.zip",
+    "pack_version": "1.2.2"
   },
   "packs": {
     "1.21.4": {
       "fabric_version": "0.19.2",
-      "pack_version": "1.2.1",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-v1.2.1/jarton-instance.zip"
+      "pack_version": "1.2.2",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-v1.2.2/jarton-instance.zip"
     },
     "1.21.5": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.5-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.5-v1.0.1/jarton-instance.zip"
     },
     "1.21.6": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.6-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.6-v1.0.1/jarton-instance.zip"
     },
     "1.21.7": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.7-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.7-v1.0.1/jarton-instance.zip"
     },
     "1.21.8": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.8-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.8-v1.0.1/jarton-instance.zip"
     },
     "1.21.9": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.9-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.9-v1.0.1/jarton-instance.zip"
     },
     "1.21.10": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.10-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.10-v1.0.1/jarton-instance.zip"
     },
     "1.21.11": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.11-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-1.21.11-v1.0.1/jarton-instance.zip"
     },
     "26.1": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-26.1-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-26.1-v1.0.1/jarton-instance.zip"
     },
     "26.1.2": {
       "fabric_version": "0.19.3",
-      "pack_version": "1.0.0",
-      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-26.1.2-v1.0.0/jarton-instance.zip"
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-26.1.2-v1.0.1/jarton-instance.zip"
+    },
+    "26.1.1": {
+      "fabric_version": "0.19.3",
+      "pack_version": "1.0.1",
+      "pack_url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/pack-26.1.1-v1.0.1/jarton-instance.zip"
     }
   },
   "wallpapers": [

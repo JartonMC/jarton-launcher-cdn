@@ -1,5 +1,29 @@
 # Changelog
 
+## Change Log #22 - 06/12/2026
+
+### The Traveling Merchant — New Rotating Shop
+
+<img alt="The Traveling Merchant" src="/traveling_merchant_npc.png" />
+
+<img alt="The Merchant Stall" src="/traveling_merchant_building.png" />
+
+✔️ **THE MERCHANT HAS ARRIVED!** -- A brand-new rotating shop bringing rare items, daily opportunities, and server-wide competition to the economy.
+
+✔️ **Daily rotating stock** -- A pool of **85 unique items**, with **3 picked fresh every 24 hours**. Every day brings a new selection, so check back before stock rotates.
+
+✔️ **Five rarity tiers** (★ to ★★★★★) -- Higher-rarity items show up less often, cost more, and tend to be far more valuable. Not every day will have a rare, so watch for those special rotations.
+
+✔️ **Global-limit exclusives** -- The rarest offerings come in extremely limited quantities, some with a server-wide purchase cap. A few may have only **one available globally** -- if you spot one, grab it before another player claims it.
+
+✔️ **Loaded reward pool** -- Diamonds and resources, powerful gear, Pet Eggs, Crate Keys, Rank Vouchers, special collectibles, and limited-time exclusives.
+
+✔️ **Gold is the main currency** -- Most purchases use Gold; some special items call for Nectar.
+
+✔️ **Two ways in** -- Visit the Merchant stall at Spawn, or use `/merchant` from anywhere.
+
+✔️ **Live restock hologram** -- The stall shows a live countdown to the next refresh, so you can plan ahead and never miss a rotation.
+
 ## Change Log #21 - 06/11/2026
 
 ### New Spawner System

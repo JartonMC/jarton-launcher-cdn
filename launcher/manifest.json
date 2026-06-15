@@ -146,39 +146,39 @@
   "news": [],
   "featured_card": null,
   "jartonui": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "jars": {
       "1.21.10": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.10.jar",
-        "sha256": "240a17d3afd97fe9be9e26f39121bf08da9e3dfbf737a8ffca0d10f98f8a8bcf"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.10.jar",
+        "sha256": "4f0b19d6530cc23b673863e22f38d848d90f93e02a274fcfca782dbca2958c10"
       },
       "1.21.11": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.11.jar",
-        "sha256": "60f466226ddddb10a191aeff75cd357f24490c3307acdaa2ab6f9a4264bc6805"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.11.jar",
+        "sha256": "076e564eca4add7f58c68da905ceca62cd5e11c9f7b89828ad73c98045958b46"
       },
       "1.21.4": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.4.jar",
-        "sha256": "929e77b7dfc10433339beabc31ba93a26953f68c499ef7a7e67b9c6f054f7175"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.4.jar",
+        "sha256": "f4f59f5cfefa9e49f19eea8098daf5813bb03bd5f222664bd972b5b952c630c8"
       },
       "1.21.5": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.5.jar",
-        "sha256": "37eaa55e8e0439ebd14eaca453d2809cc0bdea094c9f454bc26b279706b34f69"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.5.jar",
+        "sha256": "e6bf5ae75b0c35577f217271caef78ec3d48cded66af550cd2c7520959137da0"
       },
       "1.21.6": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.6.jar",
-        "sha256": "d4fb0defbdeba872607b903ed43b52e1eb97d7cadebc137639bcdd837e1faf2c"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.6.jar",
+        "sha256": "b1ac994084a3a2a3cccc6385f6579c03ff3b8583b64e739d04435d2685719fa7"
       },
       "1.21.7": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.7.jar",
-        "sha256": "9500991b48452b2069669aa323665e83b3e7ae7cfc97caf9377da782e90a3013"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.7.jar",
+        "sha256": "f2d052ce7f74ba98c683b9b92bc29d5acd885ef5236c5549c5f57df283567489"
       },
       "1.21.8": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.8.jar",
-        "sha256": "3be472f49e0168177bd731fa9cb135328efef68851354d54e62f7c0ce3bc6d02"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.8.jar",
+        "sha256": "957144fcb3ab30253a1558af0276213e55a29d6243381eec48d9ef7d481be9d4"
       },
       "1.21.9": {
-        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-1.21.9.jar",
-        "sha256": "2aa67a7b28887412d49bb9b54718de93829ff819db9d40132aa2b457dcfe38e9"
+        "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.2/JartonUI-1.21.9.jar",
+        "sha256": "980e27b341f81691cceac017fb0def57a8bbeed836382b94c45de33abd7bd5b7"
       },
       "26.1.1": {
         "url": "https://github.com/JartonMC/jarton-launcher-cdn/releases/download/jartonui-v1.2.1/JartonUI-26.1.1.jar",

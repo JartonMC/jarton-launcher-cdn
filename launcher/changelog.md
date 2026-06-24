@@ -1,5 +1,69 @@
 # Changelog
 
+## Change Log #23 - 06/24/2026
+
+### ⚔️ Custom Enchantments Overhaul ⚔️
+
+<img alt="Custom Enchantments Overhaul" src="/enchantments_overhaul.png" />
+
+427 new enchants, the all-new Souls system, new shops, scrolls, dust, and stat trackers, all with fresh menus and icons.
+
+### Custom Enchants
+
+✔️ **427 brand-new custom enchants** across six rarities (Simple, Unique, Elite, Ultimate, Legendary, and Fabled) for swords, axes, tridents, bows, crossbows, pickaxes, shovels, hoes, fishing rods, all armor, and the elytra. Levels go up to 10.
+
+✔️ Enchants come on **books** -- drag a book onto your gear to apply it. Every book has a Success and Destroy rate, and applying the same enchant again levels it up.
+
+✔️ Brand-new **icons** across every enchant, book, scroll, dust, and menu.
+
+### 👻 Souls (New!)
+
+✔️ Apply a **Soul Tracker** to a weapon and it banks souls from your kills -- **5 souls per kill**.
+
+✔️ The strongest enchants **spend souls** every time they trigger, so keep your weapon fed. **Soul Gems** top your weapon back up.
+
+### New Shops
+
+✔️ `/enchanter` -- buy random enchantment books by rarity.
+
+✔️ `/tinkerer` -- sell unwanted books for XP.
+
+✔️ `/alchemist` -- the Enchantment Alchemist combines two matching books into the next level, or two dusts into a higher-tier dust.
+
+✔️ `/enchantshop` -- buy enchant orbs that raise how many enchants your gear can hold, from 4 up to 8.
+
+### Scrolls & Dust
+
+✔️ **Scrolls** -- Holy White Scroll, Transmog Scroll, White Scroll, and Black Scroll.
+
+✔️ **Dust** -- Magic, Mystery, and Secret -- all obtainable by tinkering enchant books.
+
+### Stat Trackers
+
+✔️ Added **StatTrak, MobTrak, BlockTrak, and FishTrak** -- track player kills, mob kills, blocks mined, or fish caught right on your gear.
+
+### Wiki Enchantments Rebuilt
+
+✔️ The entire **Enchantments** section of the wiki was rebuilt for the new system -- the full **427-enchant catalog** sorted by gear with activation chance and effect at every level, plus Souls, Scrolls & Dust, the Enchanter/Tinkerer/Alchemist, and the Stat Trackers. Full guide: [wiki.jarton.me/enchantments](https://wiki.jarton.me/enchantments/)
+
+### Survival WorldEdit Overhaul (Jartonite)
+
+✔️ Completely overhauled Survival WorldEdit functionality and mechanics, with all-new messages.
+
+✔️ Players can now only make edits in the **Wilderness** world.
+
+### Other Changes & Fixes
+
+✔️ Added a **20,000 Gold cost** to redo the Miner Dungeon in "The Deep Dark" -- stops players from endlessly leaving and re-running it to farm the Macrinus questline.
+
+✔️ Inner dungeon door keys are now **removed from your inventory when you leave or enter a dungeon** -- no more grinding floor 1 and then skipping floors 1 and 2 with saved-up keys.
+
+✔️ Removed mob AI from spawner mobs.
+
+✔️ Fixed **Honeyclicker** autoclicker detection -- it now works off movement and caps CPS at 30.
+
+✔️ Fixed the **Bamboo Fishing Rod** not casting. (Old items still won't work -- make a ticket to get the fixed item.)
+
 ## Change Log #22 - 06/12/2026
 
 ### The Traveling Merchant — New Rotating Shop

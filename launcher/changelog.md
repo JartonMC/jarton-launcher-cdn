@@ -1,5 +1,55 @@
 # Changelog
 
+## Change Log #24 - 07/09/2026
+
+### General Fixes/Changes
+
+✔️ Fixed /playtime -- Now shows an in-depth playtime description for any player.
+
+✔️ Fixed dungeon key bug -- When players retry the Abandoned Mines dungeon in "The Deep Dark" quest with a banned item in their inventory, it would remove the key and kick the player out of the dungeon. This has been fixed, as well as for the GUI buttons in /dungeons.
+
+✔️ Fixed certain WorldEdit commands not working (Jartonite).
+
+### Economy & Shop Update
+
+Around 300 new blocks and items added to the server shop, the biggest restock yet. Blocks alone went from 5 pages to 16.
+
+### Blocks
+
+✔️ Every color set is in -- all 16 colors of wool, concrete, terracotta, glazed terracotta, and stained glass. Build in whatever color you want.
+
+✔️ Planks and stripped logs for every wood type -- oak all the way to cherry, pale oak, crimson, and warped.
+
+✔️ Fancy building blocks -- deepslate bricks and tiles, tuff, polished blackstone, quartz, sandstone, and stone brick sets.
+
+✔️ Storage blocks -- coal, iron, gold, copper, diamond, emerald, netherite, and amethyst.
+
+### Ores & Materials
+
+✔️ Raw ores (iron, gold, copper), amethyst shards, glowstone dust, and the full netherite line -- scrap, ingots, ancient debris, and echo shards.
+
+### Farming, Food & Drops
+
+✔️ All the saplings you were missing -- birch, jungle, acacia, dark oak, cherry, pale oak, and more.
+
+✔️ New foods -- honey bottles, milk, dried kelp, honeycomb, and fresh fish.
+
+✔️ Rare mob drops now sellable -- shulker shells, nautilus shells, dragon's breath, nether stars, and phantom membranes.
+
+### Misc
+
+✔️ Loads of utility items added -- shears, work tables, lanterns, ender chests, and more.
+
+✔️ Cleaned up every shop menu so the pages line up right.
+
+### General Shop Upkeep
+
+✔️ Rebalanced the entire server shop -- mining, farming, and mob grinding all pay more now.
+
+✔️ Crop and mob-drop sell prices raised across the board.
+
+✔️ Cleaned up shop item tooltips for sell-only items.
+
 ## Change Log #23 - 06/24/2026
 
 ### ⚔️ Custom Enchantments Overhaul ⚔️

@@ -1,5 +1,93 @@
 # Changelog
 
+## Change Log #25 - 07/29/2026
+
+### 🌐 JartonMC Website & Player Portal
+
+The website got a full rebuild and a brand new player portal. Log in with Discord, see your own profile, apply for the team, and appeal punishments, all in one place.
+
+### Log In With Discord
+
+✔️ You can now log in to jarton.me and the wiki with your Discord account. One click, no passwords.
+
+✔️ Logging in automatically ties to your Minecraft account if you have linked it in game, so the site knows who you are with no extra steps.
+
+✔️ Your account shows in the top corner of every page with your name, avatar, and top role.
+
+### Your Profile
+
+✔️ A personal profile at jarton.me/me built just for you.
+
+✔️ See your live stats at a glance: playtime, in game balance, JartonBank balance, and your town.
+
+✔️ Your rank and all of your roles show up in their real colors.
+
+✔️ A private moderation section shows your own active punishments and warnings. Only you can ever see your record. Nobody can look up anyone else.
+
+✔️ A vote center showing how many times you have voted this month and where you rank.
+
+✔️ Your store purchases, all in one place.
+
+✔️ Your applications and appeals show as cards with their live status, so you can always see where each one stands.
+
+✔️ If you are banned, a clear banner lets you know and points you to appeal.
+
+### Account Linking
+
+✔️ Your Minecraft and Discord accounts link together through the bot, so everything on the site is tied to the real you.
+
+### Site Facelift
+
+✔️ The whole website got a fresh, modern look. New home page, rules page, and vote page, with a cleaner navigation bar, footer, and background across the board.
+
+✔️ Quick Applications and Appeal buttons added to the top navigation.
+
+### 🛒 New JartonMC Store
+
+✔️ A brand new custom store at store.jarton.me, built from the ground up to match JartonMC instead of a generic webstore.
+
+✔️ Every rank now has a full perk breakdown, split into what you get right away and your ongoing perks and benefits.
+
+✔️ A proper cart and checkout, so you can grab more than one thing at a time.
+
+✔️ Switch between servers to see the ranks and packages for each one.
+
+✔️ Live top donors and a donation goal bar right on the front page.
+
+✔️ The server IP and Discord status are shown front and center so you can jump in fast.
+
+✔️ Prepped and ready for the SMP launch, with the new SMP server wired into the store so its ranks and packages can go live the moment it opens.
+
+### Team Applications
+
+✔️ Applying for the team now happens entirely on the website. Head to jarton.me, click Applications, log in with Discord, pick a position, and fill it out. Your progress saves as you go.
+
+✔️ Every position shows its requirements up front, with a checkbox to confirm you meet them before the questions unlock.
+
+✔️ Each role has a short description so you know what it involves before applying.
+
+✔️ Open positions: Helper, Jr. Moderator, Jr. Admin, Builder, Plugin Developer, Config Developer, and Content Creator, each with its own requirements.
+
+✔️ Open and currently closed roles are shown separately, so it is always clear what you can apply for.
+
+✔️ In Discord, the applications channel was rebuilt into clean per team panels with a simple Apply button that takes you straight to the form.
+
+### Punishment Appeals
+
+✔️ You can now appeal punishments right on the website. Go to jarton.me, click Appeal, log in with Discord, and submit.
+
+✔️ Submitting opens a ticket and adds you to it so you can talk with staff, even for mutes and timeouts.
+
+✔️ If your appeal is accepted, your punishments are lifted and you are notified straight away by Discord message and email. If you were banned from the Discord, you also get a fresh invite to rejoin.
+
+✔️ If it is denied, you get the outcome and the reason, so you are never left guessing.
+
+✔️ A red Punishment Appeal button now lives in the tickets area with full instructions. Only permanent punishments, or ones lasting two months or longer, can be appealed.
+
+### Wiki
+
+✔️ The wiki sidebar now opens with every category expanded, so everything is easier to browse and find.
+
 ## Change Log #24 - 07/09/2026
 
 ### General Fixes/Changes

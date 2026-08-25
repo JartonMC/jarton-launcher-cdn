@@ -1,5 +1,138 @@
 # Changelog
 
+## Change Log #26 - 08/25/2026
+
+### AFK Pool Update
+
+✔️ AFK trails got fixed. A bunch of trails (happy, enchant, redstone, cloud, and music) were silently broken and never showed up. All of them work now.
+
+✔️ Fresh new look for AFK messages and the trails menu, matching our honey theme.
+
+✔️ Your AFK gold and stats stick around. They used to sometimes reset when the server reloaded. Not anymore.
+
+✔️ Sneaking to leave the AFK pool now teleports you out properly -- no more getting yanked back in when you try to swim out.
+
+✔️ Smoothed out the ride -- no more side-to-side zig-zagging as you go around.
+
+✔️ Fixed the up-and-down bobbing while you float.
+
+### Bank Updates
+
+✔️ The bank got a full message makeover -- deposits, withdrawals, balance checks and everything else now read clean and consistent, with the gold coin shown on every amount.
+
+✔️ Trying to bank outside the bank now tells you plainly to head to a bank instead of a confusing region error.
+
+✔️ Money added / taken messages (bank, /pay, /eco, /balance) are all unified into one clean gold style.
+
+### Spawners
+
+✔️ Fixed natural spawners (mineshafts, dungeons) that weren't spawning mobs, they're working again.
+
+✔️ Spawner mobs have their AI back (they move and behave normally now).
+
+### General Fixes/Changes
+
+✔️ Added #🧑‍🏫┃discussions to Discord channels.
+
+✔️ Added a sticky message to #🪶┃suggestions in Discord with instructions on how to make a suggestion.
+
+✔️ Added QOL for `/vault` -- `/pv <number>` now directly opens the given vault.
+
+✔️ Fixed /tpaccept not registering player teleport requests.
+
+✔️ `/enchants`, `/enchantments`, `/enchantment`, and `/enchant` now all open the Enchanter menu directly.
+
+✔️ `/enchantshop` now opens the Enchant Shop (scrolls, orbs, dust, and trackers) in one command. -- No more digging through menus to get to your enchanting gear.
+
+✔️ Fixed the Jason skin in Story Dungeon 2 to match the Jason NPC at spawn.
+
+✔️ Banned all of the following commands from Dungeons:
+> - `/vault`, `/pv`, `/enderchest`, `/ec`, `/echest`, `/rpginv`, `/mmoinv`, `/shop`, `/sell`, `/ah`, `/store`, `/premiumstore`, `/nectarshop`, `/vouchershop`, `/vanillashop`, `/spawnershop`, `/enchantshop`, `/itemshop`, `/bakery`, `/kit`, `/kits`, `/crates`, `/crate`, `/vouchers`, `/voucher`, `/adventurepass`, `/jartonpass`, `/reputation`, `/daily`, `/vote`, `/menu`, `/heads`, `/headdb`, `/spawn`, `/home`, `/back`, `/warp`, `/warps`, `/rtp`, `/wild`, `/pw`, `/locations`, `/tpa`, `/tpahere`, `/tp`, `/fix`, `/repair`, `/heal`, `/feed`, `/craft`, `/condense`, `/trash`
+
+✔️ Added a 24 hour cooldown to Discord account linking `link`.
+
+✔️ Decreased the Discord link code from 8 digits to 5 digits & added click-to-copy functionality.
+
+✔️ Added full color code compatibility in chat.
+
+✔️ Fixed double jump with flight while in combat.
+
+✔️ Created new Jartonite Armor and fixed all rewards in crates.
+
+✔️ The `/rankup` menu got a fresh look.
+
+### Jobs Update
+
+✔️ Every job now has a rotating set of daily quests instead of the same one on repeat. You get two a day, and they pay out in both coins and job points.
+
+✔️ Every Saturday and Sunday, all jobs earn double money and double XP. Fully automatic, all weekend long.
+
+✔️ Switching jobs no longer costs you levels. You keep your full progress when you leave one job and join another.
+
+✔️ The `/jobs` shop is now a full armor trim shop. Spend your job points on all 18 trim templates, unlocked as your job level climbs, from common overworld trims up to the legendary Silence trim.
+
+✔️ Every jobs menu, message, and title got a complete visual overhaul to match the server style. Job titles now run from Novice all the way up to Legendary, each with its own color.
+
+### Enchantment Slots
+
+✔️ Every piece of gear now holds a flat 10 custom enchant slots, right from the start. Swords, armour, tools, bows, all of it caps at 10.
+
+✔️ Enchantment Orbs and slot upgrades are retired. No more grinding or buying to expand slots; you get the full ten out of the gate.
+
+✔️ Fixed certain **TNT enchantments** (`Explosive`, `Frenzy`, `Fumble`, `Martyrdom`) blowing craters in the ground out in the wild. The TNT still explodes and still damages players -- it just no longer destroys terrain.
+
+### Toolskins Changes
+
+✔️ Toolskin bows and crossbows now animate correctly when you draw them back -- they were showing up broken and purple mid-draw. Fixed on every version.
+
+✔️ Added /toolskinremove -- instantly takes the skin off the item in your hand and puts it back to normal. Aliases /removetoolskin and /toolskinreset.
+
+✔️ Added a Remove Skin button inside the /toolskins menus so you can clear a skin without typing a command.
+
+✔️ Cleaned up all the /toolskins messages with a fresh house-style look.
+
+### Spawner System Improvements
+
+✔️ Your spawners are now fully protected. WorldEdit tools can no longer delete, overwrite, or break a spawner you own, so no more losing a stack to a stray //set or someone's brush.
+
+✔️ Spawners from crates and other sources now work the moment you place them. They stack, spawn, and can be mined like any normal spawner.
+
+✔️ Mob farms actually work now. Mobs spawn in the open space beside the spawner instead of piling on top, so they fall into water channels and get carried to your kill spot instead of clipping into walls.
+
+✔️ Every swing counts. Spam-killing a stack no longer has that "every other hit does nothing" delay, so you kill one mob per hit as fast as your sword cooldown allows.
+
+✔️ Fixed mobs teleporting or getting knocked into walls when hit, including endermen and shulkers blinking out of the kill slot.
+
+✔️ Fixed the chicken jockey clip where a baby zombie riding a chicken would grow into a wall. Farm mobs now spawn full-grown and can't be ridden.
+
+✔️ Spawn timing is now a natural 15 to 35 second window instead of a fixed tick, and the spawner menu shows a live countdown to the next spawn.
+
+✔️ Natural world spawners (mineshafts, dungeons) that went quiet after the system switch now heal themselves and spawn mobs again.
+
+✔️ Cleaner break messages when you mine or unstack a spawner.
+
+### Jobs Changes/Revamp
+
+✔️ Jobs now pay for way more -- hundreds of new blocks, mobs, and items across every job now count toward your pay, including all the newer 1.17-1.21 content (amethyst, deepslate, sculk, netherite, cherry/mangrove/bamboo sets and more).
+
+✔️ Lumberjack actually works now -- chopping wood was paying nothing. Every log, wood, nether stem, mushroom block and leaf now pays.
+
+✔️ Miner -- ancient debris, the entire Deep Dark (sculk), amethyst, and all the modern stone/nether blocks now pay.
+
+✔️ Fisherman -- reeling in treasure (enchanted books, name tags, nautilus shells, saddles) now pays on top of regular fish.
+
+✔️ Farmer -- every modern crop, flower and animal now counts, with breeding, milking and shearing all expanded.
+
+✔️ Higher job levels earn more -- the level payout curve was steepened, so grinding a job toward max is more rewarding.
+
+✔️ Assassin rebalanced -- combat payouts were far too high and have been brought down, and 20+ missing hostile mobs (Warden, Ravager, illagers, Breeze, Bogged, piglins) were added in.
+
+✔️ Cleaner job roles -- Blacksmith handles gear crafting, Smelter handles all smelting, Farmer handles all taming and breeding, Hunter handles hunting animals. No more overlap between jobs.
+
+✔️ Crafter -- a batch of cherry wood items were paying nothing because of a naming bug. Fixed.
+
+✔️ Enchanter -- most enchants were giving 0 job points. Fixed, and netherite gear plus the newest enchants now pay too.
+
 ## Change Log #25 - 07/29/2026
 
 ### 🌐 JartonMC Website & Player Portal

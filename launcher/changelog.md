@@ -1,59 +1,5 @@
 # Changelog
 
-## Change Log #27 - 09/17/2026
-
-### Wild Encounters
-
-✔️ **NEW -- WILD ENCOUNTERS!** Roaming enemy patrols now stalk the wilderness. Groups of enemies come hunting you and drop **gold pouches** when you put them down, with bigger payouts the tougher the patrol.
-
-✔️ The patrol you face scales to your **AuraSkills Combat level**, across four tiers:
-> - **Tier 1 -- Thugs** (melee + ranged)
-> - **Tier 2 -- Bandits** (hound, melee + ranged)
-> - **Tier 3 -- Raiders** (melee, ranged + wizard)
-> - **Tier 4 -- Marauder** (boss)
-
-✔️ Your Combat level decides which tiers can find you:
-> - **Combat 0-9:** 100% Tier 1
-> - **Combat 10-19:** 40% Tier 1 / 60% Tier 2
-> - **Combat 20-29:** 20% Tier 1 / 30% Tier 2 / 50% Tier 3
-> - **Combat 30+:** 15% Tier 1 / 20% Tier 2 / 30% Tier 3 / 35% Tier 4
-
-✔️ Encounters only spawn out in the wild -- **never** inside a town's claims -- and you get a short grace period, so you are never jumped the second you step out.
-
-✔️ **This is only the beginning.** Wild Encounters will get massive improvements down the road, with loads more enemy types and mobs on the way.
-
-### Wildlife
-
-✔️ **Wildlife returns!** Several custom animals now spawn naturally around the world, matched to the biomes they would really live in:
-> - **Crocodiles** -- swamps, wetlands, and warmer regions
-> - **Bears** -- forests and mountain woodland
-> - **Buffalo** -- grasslands, savannahs, and open plains
-> - **Goblins** -- caves and underground
-
-✔️ **Crocodiles** have a chance to drop a **Crocodile Tooth**, a new crafting material for recipes coming in a future update.
-
-### Honey Clicker
-
-✔️ **The monthly reward now goes to the real #1.** A bug was handing the prize to the wrong player -- the winner is now locked in from the finished month's final standings, so the actual top collector gets the **Jartonite Key** and cash.
-
-✔️ Added a permanent **winner history** -- every month's champion is saved before the reset, so past winners are on the record.
-
-✔️ Every new month is a clean slate for everyone -- monthly score, honey, per-click upgrades, and shop prices all reset to base.
-
-✔️ Fixed a shop exploit where upgrades could eventually be bought for **free**, and fixed the first purchase of every upgrade tier doing nothing.
-
-✔️ All commands now live under one **`/honeyclicker`** command with full tab completion -- open the board with `/honeyclicker leaderboard`. The old shortcuts (`/hc`, `/lb`, `/givehoney`, and the rest) are gone.
-
-### Pet Incubator
-
-✔️ **Fixed eggs hatching the wrong rarity.** A legendary egg could hatch a lower-tier pet -- mostly eggs you had been holding in storage. Eggs now always hatch their correct tier, no matter how long they sat around.
-
-✔️ Incubating a tier you have already completed no longer costs you anything -- if you own every pet in that tier, it tells you up front and charges nothing, instead of taking your gold, nectar, and egg for no pet.
-
-✔️ Your gold is refunded if an incubation fails partway through.
-
-✔️ Fixed your gold or nectar sometimes showing as **0** after a server reload.
-
 ## Change Log #26 - 08/25/2026
 
 ### AFK Pool Update
